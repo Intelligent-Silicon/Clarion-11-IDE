@@ -327,7 +327,7 @@ Default
   <xGradientEnd>-25856</xGradientEnd>           <!-- Light Red (#FF6A6A) -->
 </ApplicationHeaderAppearance>
 ```
-
+Start
 ![DockTabStripAppearance-Start](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/ApplicationHeaderAppearance/ApplicationHeaderAppearance-Start.png)
 App Gen
 ![DockTabStripAppearance-App](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/ApplicationHeaderAppearance/ApplicationHeaderAppearance-App.png)
@@ -336,6 +336,75 @@ Dct
 
 
 ### \<StartPageAppearance>
+For these changes to appear, besides reselecting ```Appearance``` in the IDE, you need to click on the ```StartPage``` for a refresh to occur.
+
+Default
+```
+<StartPageAppearance>
+    <xGradientBegin>Silver</xGradientBegin>
+    <xGradientEnd>-2039584</xGradientEnd>
+    <xSecondaryColor>-2039584</xSecondaryColor>
+    <xPrimaryColor>-2039584</xPrimaryColor>
+    <xButtonImageColor>-14584098</xButtonImageColor>
+    <xGridHeaderColor>-1842205</xGridHeaderColor>
+    <xGridBodyColor>-1</xGridBodyColor>
+    <xGridAltBodyColor>-1</xGridAltBodyColor>
+    <xGridLineColorr>-4934476</xGridLineColorr>
+    <xGridHoverColorr>-4599318</xGridHoverColorr>
+</StartPageAppearance>
+```
+
+```
+<StartPageAppearance>
+    <xGradientBegin>-65536</xGradientBegin>       <!-- Deep Red (#FF0000) -->
+    <xGradientEnd>-25856</xGradientEnd>           <!-- Light Red (#FF6A6A) -->
+    <xSecondaryColor>-2039584</xSecondaryColor>   
+    <xPrimaryColor>-2039584</xPrimaryColor>       
+    <xButtonImageColor>-14584098</xButtonImageColor>
+    <xGridHeaderColor>-1842205</xGridHeaderColor>
+    <xGridBodyColor>-1</xGridBodyColor>
+    <xGridAltBodyColor>-1</xGridAltBodyColor>
+    <xGridLineColorr>-4934476</xGridLineColorr>
+    <xGridHoverColorr>-4599318</xGridHoverColorr>
+</StartPageAppearance>
+```
+Start
+![DockTabStripAppearance-Start](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/StartPageAppearance/StartPageAppearance-GradientBeginEnd.png)
+
+```
+<StartPageAppearance>
+    <xGradientBegin>Silver</xGradientBegin>
+    <xGradientEnd>-2039584</xGradientEnd>
+    <xSecondaryColor>-256</xSecondaryColor>       <!-- Yellow (#FFFF00) -->
+    <xPrimaryColor>-65536</xPrimaryColor>         <!-- Red (#FF0000) -->       
+    <xButtonImageColor>-14584098</xButtonImageColor>
+    <xGridHeaderColor>-1842205</xGridHeaderColor>
+    <xGridBodyColor>-1</xGridBodyColor>
+    <xGridAltBodyColor>-1</xGridAltBodyColor>
+    <xGridLineColorr>-4934476</xGridLineColorr>
+    <xGridHoverColorr>-4599318</xGridHoverColorr>
+</StartPageAppearance>
+```
+
+Start
+![DockTabStripAppearance-Start](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/StartPageAppearance/StartPageAppearance-PrimarySecondary.png)
+
+```
+<StartPageAppearance>
+    <xGradientBegin>Silver</xGradientBegin>
+    <xGradientEnd>-2039584</xGradientEnd>
+    <xSecondaryColor>-2039584</xSecondaryColor>   
+    <xPrimaryColor>-2039584</xPrimaryColor>    
+    <xButtonImageColor>-16711936</xButtonImageColor>    <!-- Green (#00FF00) -->
+    <xGridHeaderColor>-65536</xGridHeaderColor>         <!-- Red (#FF0000) -->
+    <xGridBodyColor>-23296</xGridBodyColor>             <!-- Orange (#FFA500-ish) -->
+    <xGridAltBodyColor>-256</xGridAltBodyColor>         <!-- Yellow (#FFFF00) -->
+    <xGridLineColorr>-16776961</xGridLineColorr>        <!-- Blue (#0000FF) -->
+    <xGridHoverColorr>-8388480</xGridHoverColorr>       <!-- Purple (#800080) -->
+</StartPageAppearance>
+```
+Start
+![DockTabStripAppearance-Start](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/StartPageAppearance/StartPageAppearance-Grid.png)
 
 ### \<ButtonAppearance>
 
