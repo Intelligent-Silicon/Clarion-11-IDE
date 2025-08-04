@@ -41,7 +41,7 @@ The standard Toolbar colour schemes which ship with Clarion are:
 You can select one of these colour schemes to colour the IDE by clicking on 
 ```Tools, Options, IDE, Appearance, scroll down to 'Select the Toolbar color scheme', and select one of the above from the drop down list box.```
 
-
+If you are editing individual sections and elements in one of the colour scheme XML files, its enough to select ```Tools, Options, IDE, Appearance, OK button``` to trigger the reloading of the colour scheme, if the one selected is the same one being editted at the same time in another program like Notepad++.
 
 
 The XML file consists of different sections to represent the different parts of the IDE.
@@ -313,6 +313,27 @@ Dct
 
 
 ### \<ApplicationHeaderAppearance>
+Default
+```
+<ApplicationHeaderAppearance>
+    <xGradientBegin>-460552</xGradientBegin>
+    <xGradientEnd>-460552</xGradientEnd>
+</ApplicationHeaderAppearance>
+```
+
+```
+<ApplicationHeaderAppearance>
+  <xGradientBegin>-65536</xGradientBegin>       <!-- Deep Red (#FF0000) -->
+  <xGradientEnd>-25856</xGradientEnd>           <!-- Light Red (#FF6A6A) -->
+</ApplicationHeaderAppearance>
+```
+
+![DockTabStripAppearance-Start](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/ApplicationHeaderAppearance/ApplicationHeaderAppearance-Start.png)
+App Gen
+![DockTabStripAppearance-App](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/ApplicationHeaderAppearance/ApplicationHeaderAppearance-App.png)
+Dct
+![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/ApplicationHeaderAppearance/ApplicationHeaderAppearance-Dct.png)
+
 
 ### \<StartPageAppearance>
 
