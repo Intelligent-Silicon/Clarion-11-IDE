@@ -197,6 +197,32 @@ Default
 </Active>
 ```
 Start Page
+![DockTabStripAppearance-Start](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/DockTabAppearance/Inactive/DockTabAppearanceInactive-Start.png)
+App Gen
+![DockTabStripAppearance-App](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/DockTabAppearance/Inactive/DockTabAppearanceInactive-App.png)
+Dct
+![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/DockTabAppearance/Inactive/DockTabAppearanceInactive-Dct.png)
+
+### \<DockTabAppearance> \<Inactive>
+Default
+```
+<Inactive>
+    <xGradientBegin>-986896</xGradientBegin>
+    <xGradientEnd>-986896</xGradientEnd>
+    <xTextColor>-10066330</xTextColor>
+    <xEdgeColor>-855310</xEdgeColor>
+</Inactive>
+```
+
+```
+<Inactive>
+    <xGradientBegin>-65536</xGradientBegin>       <!-- Deep Red (#FF0000) -->
+    <xGradientEnd>-25856</xGradientEnd>           <!-- Light Red (#FF6A6A) -->
+    <xTextColor>-256</xTextColor>                 <!-- Bright Yellow (#FFFF00) -->
+    <xEdgeColor>-16711936</xEdgeColor>            <!-- Lime Green (#00FF00) -->   
+</Inactive>
+```
+Start Page
 ![DockTabStripAppearance-Start](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/DockTabAppearance/Active/DockTabAppearanceActive-Start.png)
 App Gen
 ![DockTabStripAppearance-App](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/DockTabAppearance/Active/DockTabAppearanceActive-App.png)
