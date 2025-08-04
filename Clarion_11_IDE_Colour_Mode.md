@@ -114,6 +114,17 @@ Dct
 
 ### \<DockPadTitleAppearance>
 
+Default
+```
+<DockPadTitleAppearance>
+    <xActiveBackColorGradientBegin>-460552</xActiveBackColorGradientBegin>
+    <xActiveBackColorGradientEnd>-460552</xActiveBackColorGradientEnd>
+    <xActiveTextColor>Gray</xActiveTextColor>
+    <xInactiveBackColor>-986896</xInactiveBackColor>
+    <xInactiveTextColor>Gray</xInactiveTextColor>
+</DockPadTitleAppearance>
+```
+
 
 
 ### \<DockTabAppearance>
