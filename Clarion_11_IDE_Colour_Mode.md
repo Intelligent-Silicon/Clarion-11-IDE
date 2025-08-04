@@ -96,7 +96,7 @@ Default
     <xTextColor>-6250336</xTextColor>
 </DockTabStripAppearance>
 ```
-
+![Screenshot](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/DockTabStripAppearance.png)
 ```
 <DockTabStripAppearance>
   <xGradientBegin>-65536</xGradientBegin>      <!-- Dark red (#FF0000) -->
