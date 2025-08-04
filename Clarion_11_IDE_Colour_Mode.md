@@ -88,11 +88,12 @@ Blue       BYTE
  
 ### \<DockTabStripAppearance>
 
+Default 
 ```
 <DockTabStripAppearance>
-    <xGradientBegin>-13816528</xGradientBegin>
-    <xGradientEnd>-13816528</xGradientEnd>
-    <xTextColor>ControlDark</xTextColor>
+    <xGradientBegin>-986896</xGradientBegin>
+    <xGradientEnd>-197380</xGradientEnd>
+    <xTextColor>-6250336</xTextColor>
 </DockTabStripAppearance>
 ```
 
