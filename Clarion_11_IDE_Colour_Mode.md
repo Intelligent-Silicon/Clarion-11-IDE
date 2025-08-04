@@ -229,6 +229,34 @@ App Gen
 Dct
 ![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/DockTabAppearance/Inactive/DockTabAppearanceInactive-Dct.png)
 
+### \<DockTabAppearance> \<PadActive>
+Default
+```
+<PadActive>
+    <xGradientBegin>-986896</xGradientBegin>
+    <xGradientEnd>-986896</xGradientEnd>
+    <xEdgeColor>Gray</xEdgeColor>
+    <xTextColor>-12566464</xTextColor>
+</PadActive>
+```
+
+```
+<PadActive>
+    <xGradientBegin>-65536</xGradientBegin>       <!-- Deep Red (#FF0000) -->
+    <xGradientEnd>-25856</xGradientEnd>           <!-- Light Red (#FF6A6A) -->
+    <xEdgeColor>-16711936</xEdgeColor>            <!-- Lime Green (#00FF00) -->
+    <xTextColor>-256</xTextColor>                 <!-- Brilliant Yellow (#FFFF00) -->
+</PadActive>
+```
+
+Start Page
+![DockTabStripAppearance-Start](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/DockTabAppearance/PadActive/DockTabAppearancePadActive-Start.png)
+App Gen
+![DockTabStripAppearance-App](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/DockTabAppearance/PadActive/DockTabAppearancePadActive-App.png)
+Dct
+![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/DockTabAppearance/PadActive/DockTabAppearancePadActive-Dct.png)
+
+
 ### \<ApplicationHeaderAppearance>
 
 ### \<StartPageAppearance>
