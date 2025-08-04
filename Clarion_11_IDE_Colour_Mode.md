@@ -142,6 +142,61 @@ Dct
 ![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/DockPadTitleAppearance/DockPadTitleAppearance-Dct.png)
 
 ### \<DockTabAppearance>
+Default
+```
+<DockTabAppearance>
+    <Active>
+        <xGradientBegin>-986896</xGradientBegin>
+        <xGradientEnd>-986896</xGradientEnd>
+        <xEdgeColor>-8355712</xEdgeColor>
+        <xTextColor>-10066330</xTextColor>
+    </Active>
+    <Inactive>
+        <xGradientBegin>-986896</xGradientBegin>
+        <xGradientEnd>-986896</xGradientEnd>
+        <xTextColor>-10066330</xTextColor>
+        <xEdgeColor>-855310</xEdgeColor>
+    </Inactive>
+    <PadActive>
+        <xGradientBegin>-986896</xGradientBegin>
+        <xGradientEnd>-986896</xGradientEnd>
+        <xEdgeColor>Gray</xEdgeColor>
+        <xTextColor>-12566464</xTextColor>
+    </PadActive>
+    <PadHide>
+        <xGradientBegin>-3876102</xGradientBegin>
+        <xGradientEnd>-3876102</xGradientEnd>
+        <xEdgeColor>-3876102</xEdgeColor>
+        <xTextColor>-10066330</xTextColor>
+    </PadHide>
+    <PadHideOver>
+        <xGradientBegin>-6373643</xGradientBegin>
+        <xGradientEnd>-6373643</xGradientEnd>
+        <xEdgeColor>-6373643</xEdgeColor>
+        <xTextColor>-12566464</xTextColor>
+    </PadHideOver>
+</DockTabAppearance>
+  ```
+### \<DockTabAppearance> \<Active>
+Default
+```
+<Active>
+    <xGradientBegin>-986896</xGradientBegin>
+    <xGradientEnd>-986896</xGradientEnd>
+    <xEdgeColor>-8355712</xEdgeColor>
+    <xTextColor>-10066330</xTextColor>
+</Active>
+```
+
+```
+<Active>
+    <xGradientBegin>-65536</xGradientBegin>       <!-- Deep Red (#FF0000) -->
+    <xGradientEnd>-25856</xGradientEnd>           <!-- Light Red (#FF6A6A) -->
+    <xEdgeColor>-16711936</xEdgeColor>            <!-- Lime Green (#00FF00) -->
+    <xTextColor>-16776961</xTextColor>            <!-- Cyan (#0000FF) -->
+</Active>
+```
+
 
 ### \<ApplicationHeaderAppearance>
 
