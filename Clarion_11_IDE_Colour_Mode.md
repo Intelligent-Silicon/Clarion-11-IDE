@@ -197,11 +197,11 @@ Default
 </Active>
 ```
 Start Page
-![DockTabStripAppearance-Start](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/DockTabAppearance/Inactive/DockTabAppearanceInactive-Start.png)
+![DockTabStripAppearance-Start](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/DockTabAppearance/Active/DockTabAppearanceActive-Start.png)
 App Gen
-![DockTabStripAppearance-App](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/DockTabAppearance/Inactive/DockTabAppearanceInactive-App.png)
+![DockTabStripAppearance-App](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/DockTabAppearance/Active/DockTabAppearanceActive-App.png)
 Dct
-![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/DockTabAppearance/Inactive/DockTabAppearanceInactive-Dct.png)
+![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/DockTabAppearance/Active/DockTabAppearanceActive-Dct.png)
 
 ### \<DockTabAppearance> \<Inactive>
 Default
@@ -223,11 +223,11 @@ Default
 </Inactive>
 ```
 Start Page
-![DockTabStripAppearance-Start](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/DockTabAppearance/Active/DockTabAppearanceActive-Start.png)
+![DockTabStripAppearance-Start](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/DockTabAppearance/Inactive/DockTabAppearanceInactive-Start.png)
 App Gen
-![DockTabStripAppearance-App](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/DockTabAppearance/Active/DockTabAppearanceActive-App.png)
+![DockTabStripAppearance-App](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/DockTabAppearance/Inactive/DockTabAppearanceInactive-App.png)
 Dct
-![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/DockTabAppearance/Active/DockTabAppearanceActive-Dct.png)
+![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/DockTabAppearance/Inactive/DockTabAppearanceInactive-Dct.png)
 
 ### \<ApplicationHeaderAppearance>
 
