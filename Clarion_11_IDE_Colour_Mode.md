@@ -193,10 +193,15 @@ Default
     <xGradientBegin>-65536</xGradientBegin>       <!-- Deep Red (#FF0000) -->
     <xGradientEnd>-25856</xGradientEnd>           <!-- Light Red (#FF6A6A) -->
     <xEdgeColor>-16711936</xEdgeColor>            <!-- Lime Green (#00FF00) -->
-    <xTextColor>-16776961</xTextColor>            <!-- Cyan (#0000FF) -->
+    <xTextColor>-256</xTextColor>                 <!-- Bright Yellow (#FFFF00) -->
 </Active>
 ```
-
+Start Page
+![DockTabStripAppearance-Start](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/DockTabAppearance/Active/DockTabAppearanceActive-Start.png)
+App Gen
+![DockTabStripAppearance-App](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/DockTabAppearance/Active/DockTabAppearanceActive-App.png)
+Dct
+![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/DockTabAppearance/Active/DockTabAppearanceActive-Dct.png)
 
 ### \<ApplicationHeaderAppearance>
 
