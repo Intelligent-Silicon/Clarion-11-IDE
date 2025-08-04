@@ -97,6 +97,14 @@ Default
 </DockTabStripAppearance>
 ```
 
+```
+<DockTabStripAppearance>
+  <xGradientBegin>-65536</xGradientBegin>      <!-- Dark red (#FF0000) -->
+  <xGradientEnd>-25856</xGradientEnd>          <!-- Light red (#FF6A6A) -->
+  <xTextColor>-1</xTextColor>                  <!-- Brilliant red (#FF0000) -->
+</DockTabStripAppearance>
+```
+
 
 ### \<DockPadTitleAppearance>
 
