@@ -86,7 +86,7 @@ Blue       BYTE
 ```
 
  
-### <DockTabStripAppearance>
+### \<DockTabStripAppearance>
 
 ```
 <DockTabStripAppearance>
@@ -97,35 +97,35 @@ Blue       BYTE
 ```
 
 
-### <DockPadTitleAppearance>
+### \<DockPadTitleAppearance>
 
 
 
-### <DockTabAppearance>
+### \<DockTabAppearance>
 
-### <ApplicationHeaderAppearance>
+### \<ApplicationHeaderAppearance>
 
-### <StartPageAppearance>
+### \<StartPageAppearance>
 
-### <ButtonAppearance>
+### \<ButtonAppearance>
 
-### <GripAppearance>
+### \<GripAppearance>
 
-### <ImageMarginAppearance>
+### \<ImageMarginAppearance>
 
-### <MenuItemAppearance>
+### \<MenuItemAppearance>
 
-### <MenuStripAppearance>
+### \<MenuStripAppearance>
 
-### <OverflowButtonAppearance>
+### \<OverflowButtonAppearance>
 
-### <RaftingContainerAppearance>
+### \<RaftingContainerAppearance>
 
-### <SeparatorAppearance>
+### \<SeparatorAppearance>
 
-### <StatusStripAppearance>
+### \<StatusStripAppearance>
 
-### <ToolStripAppearance>
+### \<ToolStripAppearance>
 
 
 <StartPageAppearance>
