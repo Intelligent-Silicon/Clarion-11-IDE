@@ -473,9 +473,9 @@ No Visible Changes
 <CheckedAppearance>
     <xBackground>-3874305</xBackground>
     <xBorderHighlight>-13395457</xBorderHighlight>
-    <xGradientBegin>-65536</xGradientBegin>        <!-- Red (#FF0000) -->
-  <xGradientMiddle>-256</xGradientMiddle>        <!-- Yellow (#FFFF00) -->
-  <xGradientEnd>-16711936</xGradientEnd>         <!-- Green (#00FF00) -->
+    <xGradientBegin>-65536</xGradientBegin>         <!-- Red (#FF0000) -->
+  <xGradientMiddle>-256</xGradientMiddle>           <!-- Yellow (#FFFF00) -->
+  <xGradientEnd>-16711936</xGradientEnd>            <!-- Green (#00FF00) -->
     <xHighlight>-3874305</xHighlight>
     <xPressedBackground>-6697729</xPressedBackground>
     <xSelectedBackground>-6697729</xSelectedBackground>
@@ -485,6 +485,48 @@ App
 ![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/ButtonAppearance/CheckedAppearance/ButtonAppearanceCheckedAppearance-Gradient-App.png)
 Dct
 ![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/ButtonAppearance/CheckedAppearance/ButtonAppearanceCheckedAppearance-Gradient-Dct.png)
+
+```
+<CheckedAppearance>
+    <xBackground>-3874305</xBackground>
+    <xBorderHighlight>-13395457</xBorderHighlight>
+    <xGradientBegin>0</xGradientBegin>
+    <xGradientEnd>0</xGradientEnd>
+    <xGradientMiddle>0</xGradientMiddle>
+    <xHighlight>-65536</xHighlight>                         <!-- Red highlight (#FF0000) -->
+    <xPressedBackground>-256</xPressedBackground>           <!-- Yellow pressed state (#FFFF00) -->
+    <xSelectedBackground>-16711936</xSelectedBackground>    <!-- Green selected state (#00FF00) -->
+</CheckedAppearance>
+
+```
+No visible changes
+
+### \<ButtonAppearance> \<PressedAppearance>
+Default
+```
+<PressedAppearance>
+    <xBorder>-13395457</xBorder>
+    <xBorderHighlight>-13395457</xBorderHighlight>
+    <xGradientBegin>-6697729</xGradientBegin>
+    <xGradientEnd>-6697729</xGradientEnd>
+    <xGradientMiddle>-6697729</xGradientMiddle>
+    <xHighlight>-6763521</xHighlight>
+</PressedAppearance>
+```
+
+```
+<PressedAppearance>
+    <xBorder>-65536</xBorder>                               <!-- Red highlight (#FF0000) -->
+    <xBorderHighlight>-256</xBorderHighlight>               <!-- Bright yellow (#FFFF00) -->
+    <xGradientBegin>-6697729</xGradientBegin>
+    <xGradientEnd>-6697729</xGradientEnd>
+    <xGradientMiddle>-6697729</xGradientMiddle>
+    <xHighlight>-6763521</xHighlight>
+</PressedAppearance>
+```
+No Visible Change
+
+
 
 ### \<GripAppearance>
 
