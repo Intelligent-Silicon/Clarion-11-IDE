@@ -256,7 +256,7 @@ App Gen
 Dct
 ![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/DockTabAppearance/PadActive/DockTabAppearancePadActive-Dct.png)
 
-### \<DockTabAppearance> \<PadActive>
+### \<DockTabAppearance> \<PadHide>
 Default
 ```
 <PadHide>
