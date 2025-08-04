@@ -681,8 +681,87 @@ Dct - Table Toolbar - Close, Expand All Nodes, Contract All Nodes buttons
 No Visible Change
 
 ### \<GripAppearance>
+Default
+```
+<GripAppearance>
+    <xDark>-4671304</xDark>
+    <xLight>-1</xLight>
+</GripAppearance>
+```
+
+```
+<GripAppearance>
+    <xDark>-65536</xDark>               <!-- Red (#FF0000) -->
+    <xLight>-256</xLight>               <!-- Yellow (#FFFF00) -->
+</GripAppearance>
+```
+No Visible Change
 
 ### \<ImageMarginAppearance>
+Default
+```
+<ImageMarginAppearance>
+    <Normal>
+        <xGradientBegin>-197380</xGradientBegin>
+        <xGradientEnd>-986896</xGradientEnd>
+        <xGradientMiddle>-460552</xGradientMiddle>
+    </Normal>
+    <Revealed>
+        <xGradientBegin>-394759</xGradientBegin>
+        <xGradientEnd>-855310</xGradientEnd>
+        <xGradientMiddle>-657931</xGradientMiddle>
+    </Revealed>
+</ImageMarginAppearance>
+```
+
+```
+    <Normal>
+        <xGradientBegin>-65536</xGradientBegin>         <!-- Red (#FF0000) -->
+        <xGradientEnd>-16711936</xGradientEnd>          <!-- Green (#00FF00) -->
+        <xGradientMiddle>-256</xGradientMiddle>         <!-- Yellow (#FFFF00) -->
+    </Normal>
+```
+No Visible Change
+
+```
+    <Revealed>
+        <xGradientBegin>-65536</xGradientBegin>         <!-- Red (#FF0000) -->
+        <xGradientEnd>-16711936</xGradientEnd>          <!-- Green (#00FF00) -->
+        <xGradientMiddle>-256</xGradientMiddle>         <!-- Yellow (#FFFF00) -->
+    </Revealed>
+```
+
+
+Start - Main Menu - All Drop Down Main Menu Items
+![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/ImageMarginAppearance/Revealed/ImageMarginAppearanceRevealed-MainMenu-File-Start.png)
+
+Start - Main Menu - All Drop Down Main Menu Items
+![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/ImageMarginAppearance/Revealed/ImageMarginAppearanceRevealed-MainMenu-View-Start.png)
+
+Start - Main Menu - All Drop Down Main Menu Items
+![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/ImageMarginAppearance/Revealed/ImageMarginAppearanceRevealed-MainMenu-Tools-Start.png)
+
+App - DataPad - Edit Schema as Text
+![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/ImageMarginAppearance/Revealed/ImageMarginAppearanceRevealed-DataPad-App.png)
+
+App - DataPad - Edit Schema as Text
+![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/ImageMarginAppearance/Revealed/ImageMarginAppearanceRevealed-Toolbox-App.png)
+
+App - Toolbox - Right mouse click popup menu
+![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/ImageMarginAppearance/Revealed/ImageMarginAppearanceRevealed-Toolbox-App.png)
+
+App - Properties - Right mouse click popup menu
+![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/ImageMarginAppearance/Revealed/ImageMarginAppearanceRevealed-Properties-App.png)
+
+App - Properties - Right mouse click popup menu
+![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/ImageMarginAppearance/Revealed/ImageMarginAppearanceRevealed-SolutionsExplorer-App.png)
+
+Dct - Data Explorer - Import/Export
+![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/ImageMarginAppearance/Revealed/ImageMarginAppearanceRevealed-DctExplorer-Dct.png)
+
+Dct - Main Menu - All Drop Down Main Menu Items
+![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/ImageMarginAppearance/Revealed/ImageMarginAppearanceRevealed-MainMenu-Dct.png)
+
 
 ### \<MenuItemAppearance>
 
