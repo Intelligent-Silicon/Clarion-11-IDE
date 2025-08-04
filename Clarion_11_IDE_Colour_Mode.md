@@ -12,8 +12,10 @@ An online topic & discussion can be found here at :
 
 [ClarionHub.com - Share your custom syntax highlighting scheme here!](https://clarionhub.com/t/share-your-custom-syntax-highlighting-scheme-here/453/1)
 
-The XML files responsible for the colour of the IDE can be found in 
-```%CWroot%\data\resources\ColorThemes``` aka ```C:\Clarion11\data\resources\ColorThemes```.
+The XML files responsible for the colour of the IDE can be found in :
+```%CWroot%\data\resources\ColorThemes```
+which translates to:
+ ```C:\Clarion11\data\resources\ColorThemes```.
 
 Its this folder, where you import or add your own Toolbar color scheme XML files.
 
