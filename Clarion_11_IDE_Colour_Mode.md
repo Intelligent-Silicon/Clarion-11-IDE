@@ -6,7 +6,11 @@ The Clarion 11 IDE permits different colour modes to be used.
 
 This encompasses, toolbars and flyout pinnable pads.
 
-An online topic & discussion can be found here at [ClarionHub.com - Custom Themes and Color Schemes for the IDE](https://clarionhub.com/t/custom-themes-and-color-schemes-for-the-ide/126) and [ClarionHub.com - Share your custom syntax highlighting scheme here!](https://clarionhub.com/t/share-your-custom-syntax-highlighting-scheme-here/453/1)
+An online topic & discussion can be found here at :
+
+[ClarionHub.com - Custom Themes and Color Schemes for the IDE](https://clarionhub.com/t/custom-themes-and-color-schemes-for-the-ide/126) 
+
+[ClarionHub.com - Share your custom syntax highlighting scheme here!](https://clarionhub.com/t/share-your-custom-syntax-highlighting-scheme-here/453/1)
 
 The XML files responsible for the colour of the IDE can be found in 
 ```%CWroot%\data\resources\ColorThemes``` aka ```C:\Clarion11\data\resources\ColorThemes```.
