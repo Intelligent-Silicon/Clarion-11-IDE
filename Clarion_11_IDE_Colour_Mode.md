@@ -131,7 +131,7 @@ Default
   <xActiveBackColorGradientEnd>-25856</xActiveBackColorGradientEnd>         <!-- Bright Red -->
   <xActiveTextColor>-256</xActiveTextColor>                                 <!-- Yellow Text -->
   <xInactiveBackColor>-16711936</xInactiveBackColor>                        <!-- Green Background -->
-  <xInactiveTextColor>-1</xInactiveTextColor>                               <!-- White Text -->
+  <xInactiveTextColor>-16753920</xInactiveTextColor>                        <!-- Blue Text -->
 </DockPadTitleAppearance>
 ```
 Start Page
