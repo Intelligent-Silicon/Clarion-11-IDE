@@ -282,6 +282,36 @@ App Gen
 Dct
 ![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/DockTabAppearance/PadHide/DockTabAppearancePadHide-Dct.png)
 
+### \<DockTabAppearance> \<PadHideOver>
+Default
+```
+<PadHideOver>
+    <xGradientBegin>-6373643</xGradientBegin>
+    <xGradientEnd>-6373643</xGradientEnd>
+    <xEdgeColor>-6373643</xEdgeColor>
+    <xTextColor>-12566464</xTextColor>
+</PadHideOver>
+```
+
+```
+<PadHideOver>
+    <xGradientBegin>-65536</xGradientBegin>       <!-- Deep Red (#FF0000) -->
+    <xGradientEnd>-25856</xGradientEnd>           <!-- Light Red (#FF6A6A) -->
+    <xEdgeColor>-16711936</xEdgeColor>            <!-- Lime Green (#00FF00) -->
+    <xTextColor>-256</xTextColor>                 <!-- Bright Yellow (#FFFF00) -->
+</PadHideOver>
+```
+
+Hovering the Mouse over any of the hidden tabs does not change the colour, which is why you see no change.
+
+Start Page
+![DockTabStripAppearance-Start](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/DockTabAppearance/PadeHideOver/DockTabAppearancePadeHideOver-Start.png)
+App Gen
+![DockTabStripAppearance-App](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/DockTabAppearance/PadeHideOver/DockTabAppearancePadeHideOver-App.png)
+Dct
+![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/DockTabAppearance/PadeHideOver/DockTabAppearancePadeHideOver-Dct.png)
+
+
 ### \<ApplicationHeaderAppearance>
 
 ### \<StartPageAppearance>
