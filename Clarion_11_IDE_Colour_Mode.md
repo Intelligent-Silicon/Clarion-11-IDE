@@ -125,7 +125,21 @@ Default
 </DockPadTitleAppearance>
 ```
 
-
+```
+<DockPadTitleAppearance>
+  <xActiveBackColorGradientBegin>-65536</xActiveBackColorGradientBegin>     <!-- Deep Red -->
+  <xActiveBackColorGradientEnd>-25856</xActiveBackColorGradientEnd>         <!-- Bright Red -->
+  <xActiveTextColor>-256</xActiveTextColor>                                 <!-- Yellow Text -->
+  <xInactiveBackColor>-16711936</xInactiveBackColor>                        <!-- Green Background -->
+  <xInactiveTextColor>-1</xInactiveTextColor>                               <!-- White Text -->
+</DockPadTitleAppearance>
+```
+Start Page
+![DockTabStripAppearance-Start](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/DockPadTitleAppearance/DockPadTitleAppearance-Start.png)
+App Gen
+![DockTabStripAppearance-App](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/DockPadTitleAppearance/DockPadTitleAppearance-App.png)
+Dct
+![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/DockPadTitleAppearance/DockPadTitleAppearance-Dct.png)
 
 ### \<DockTabAppearance>
 
