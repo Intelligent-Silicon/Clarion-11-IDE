@@ -574,13 +574,31 @@ Default
 </SelectedAppearance>
 ```
 App - Data Pad
-![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/ButtonAppearance/SelectedAppearance/ButtonAppearanceSelectedAppearance-DataPad-App.png)
+![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/ButtonAppearance/SelectedAppearance/ButtonAppearanceSelectedAppearance-DataPad-Border-App.png)
 App - Main Toolbar
-![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/ButtonAppearance/SelectedAppearance/ButtonAppearanceSelectedAppearance-MainToolbar-App.png)
+![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/ButtonAppearance/SelectedAppearance/ButtonAppearanceSelectedAppearance-MainToolbar-Border-App.png)
 App - Solution Explorer
-![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/ButtonAppearance/SelectedAppearance/ButtonAppearanceSelectedAppearance-SolutionExplorer-App.png)
+![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/ButtonAppearance/SelectedAppearance/ButtonAppearanceSelectedAppearance-SolutionExplorer-Border-App.png)
 Dct - Main Toolbar
-![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/ButtonAppearance/SelectedAppearance/ButtonAppearanceSelectedAppearance-MainToolbar-Dct.png)
+![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/ButtonAppearance/SelectedAppearance/ButtonAppearanceSelectedAppearance-MainToolbar-Border-Dct.png)
+
+```
+<SelectedAppearance>
+    <xBorder>-13395457</xBorder>
+    <xBorderHighlight>-13395457</xBorderHighlight>
+    <xGradientBegin>-65536</xGradientBegin>         <!-- Red (#FF0000) -->
+    <xGradientEnd>-16711936</xGradientEnd>          <!-- Green (#00FF00) -->
+    <xGradientMiddle>-256</xGradientMiddle>         <!-- Yellow (#FFFF00) -->
+    <xHighlight>-3874305</xHighlight>
+</SelectedAppearance>
+```
+
+Start - Main Toolbar - Just hilighted button
+![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/ButtonAppearance/SelectedAppearance/ButtonAppearanceSelectedAppearance-DataPad-App.png)
+
+
+
+
 
 ### \<GripAppearance>
 
