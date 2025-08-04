@@ -1,6 +1,32 @@
 # Clarion 11 IDE Colour Mode
 
-The Clarion 11 IDE permits different colour modes being used.
+The Clarion 11 IDE permits different colour modes to be used.
+
+### Toolbar Color Schemes.
+
+The XML files responsible for the colour of the IDE can be found in 
+```%CWroot%\data\resources\ColorThemes``` aka ```C:\Clarion11\data\resources\ColorThemes```.
+
+The standard colour schemes which ship with Clarion are:
+| Colour Scheme |
+| --- |
+| Default.xml |
+| Office2003Blue.xml |
+| Office2003Olive.xml |
+| Office2003Silver.xml |
+| Office2007.xml |
+| OfficeBlack.xml |
+| OfficeClassic.xml |
+| OfficeXP.xml |
+| SerenityBlue.xml |
+| VSDark.xml |
+| Win8Blue.xml |
+| Win10Blue.xml |
+
+You can select one of these colour schemes to colour the IDE by clicking on Tools, Options, IDE, Appearance, scroll down to 'Select the Toolbar color scheme', and select one of the above from the drop down list box.
+
+
+
 
 The XML file consists of different sections to represent the different parts of the IDE.
 <DockTabStripAppearance>
