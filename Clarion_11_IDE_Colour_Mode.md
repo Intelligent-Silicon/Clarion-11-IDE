@@ -63,10 +63,24 @@ The XML file consists of different sections to represent the different parts of 
 Within each section there will be a number of elements some of which will be paired eg
 \<xGradientBegin> & \<xGradientEnd>, \<xActiveTextColor> & \<xInactiveTextColor>, \<xActiveBackColorGradientBegin> & \<xActiveBackColorGradientEnd> with \<xInactiveBackColor>.
 
+### ARGB Numbers
 The Numbers within these elements are predominantly negative numbers eg -16777216. These are whats called ARGB (Alpha, Red, Green, Blue) number formats which are stored in a 32-bit integer (Clarion Long). You can also use basic colour names, like Red, White & Blue, and colour names like WhiteSmoke, ControlLight, ActiveBorder and GradientActiveCaption. 
 
 You can find a full list of these named system colors in the [.NET SystemColors Class](https://learn.microsoft.com/en-us/dotnet/api/system.drawing.systemcolors?view=net-9.0) documentation. It includes colors like ControlLight, ActiveBorder, GradientActiveCaption, and many others used in Windows UI elements.
-For a more visual and OS-specific breakdown, this [GitHub gist of Windows system colors](https://gist.github.com/zaxbux/64b5a88e2e390fb8f8d24eb1736f71e0) is a gem. It shows the RGB and hex values for each color, grouped by UI category—like window borders, captions, controls, and text.
+For a more visual and OS-specific breakdown, this [GitHub gist of Windows system colors](https://gist.github.com/zaxbux/64b5a88e2e390fb8f8d24eb1736f71e0) is good. It shows the RGB and hex values for each color, grouped by UI category—like window borders, captions, controls, and text.
+
+ARGB numbers range from 0 to 255, and the negative 32bit integer is calculated using Bshift.
+
+```Clarion
+ARGBColor  LONG
+Alpha      BYTE
+Red        BYTE
+Green      BYTE
+Blue       BYTE
+
+    Code
+    ARGBColor = BShift(Alpha,24) + BShift(Red,16) + BShift(Green,8) + Blue
+```
 
  
 
