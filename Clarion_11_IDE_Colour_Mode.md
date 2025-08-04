@@ -614,7 +614,18 @@ Dct - Dct Toolbar - Close, Browse Table, Dictionary Properties, Users, Open Diag
 Dct - Table Toolbar - Close, Expand All Nodes, Contract All Nodes buttons
 ![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/ButtonAppearance/SelectedAppearance/ButtonAppearanceSelectedAppearance-Table-Gradient-Dct.png)
 
+```
+<SelectedAppearance>
+    <xBorder>-13395457</xBorder>
+    <xBorderHighlight>-13395457</xBorderHighlight>
+    <xGradientBegin>-4005633</xGradientBegin>
+    <xGradientEnd>-4005633</xGradientEnd>
+    <xGradientMiddle>-4005633</xGradientMiddle>
+    <xHighlight>-65536</xHighlight>             <!-- Red (#FF0000) -->
+</SelectedAppearance>
+```
 
+No Visible Change
 
 ### \<GripAppearance>
 
