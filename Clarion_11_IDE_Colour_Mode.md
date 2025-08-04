@@ -759,7 +759,7 @@ App - Properties - Right mouse click popup menu
 Dct - Data Explorer - Import/Export
 ![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/ImageMarginAppearance/Revealed/ImageMarginAppearanceRevealed-DctExplorer-Dct.png)
 
-Dct - Main Menu - All Drop Down Main Menu Items
+Dct - Table View
 ![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/ImageMarginAppearance/Revealed/ImageMarginAppearanceRevealed-MainMenu-Dct.png)
 
 
