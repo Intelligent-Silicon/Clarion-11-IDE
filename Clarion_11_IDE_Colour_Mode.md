@@ -574,12 +574,13 @@ Default
 </SelectedAppearance>
 ```
 App - Data Pad
-![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/ButtonAppearance/SelectedAppearance/ButtonAppearanceSelectedAppearance-DataPad.png)
+![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/ButtonAppearance/SelectedAppearance/ButtonAppearanceSelectedAppearance-DataPad-App.png)
 App - Main Toolbar
-![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/ButtonAppearance/SelectedAppearance/ButtonAppearanceSelectedAppearance-MainToolbar.png)
+![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/ButtonAppearance/SelectedAppearance/ButtonAppearanceSelectedAppearance-MainToolbar-App.png)
 App - Solution Explorer
-![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/ButtonAppearance/SelectedAppearance/ButtonAppearanceSelectedAppearance-SolutionExplorer.png)
-
+![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/ButtonAppearance/SelectedAppearance/ButtonAppearanceSelectedAppearance-SolutionExplorer-App.png)
+Dct - Main Toolbar
+![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/ButtonAppearance/SelectedAppearance/ButtonAppearanceSelectedAppearance-MainToolbar-Dct.png)
 
 ### \<GripAppearance>
 
