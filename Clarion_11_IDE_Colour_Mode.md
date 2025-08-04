@@ -593,10 +593,26 @@ Dct - Main Toolbar
 </SelectedAppearance>
 ```
 
-Start - Main Toolbar - Just hilighted button
-![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/ButtonAppearance/SelectedAppearance/ButtonAppearanceSelectedAppearance-DataPad-App.png)
+Start - Main Toolbar - Just Open File button
+![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/ButtonAppearance/SelectedAppearance/ButtonAppearanceSelectedAppearance-MainToolbar-Gradient-Start.png)
 
+App - DataPad - Add, Change, Delete, Expand All Nodes, Contract All Nodes buttons
+![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/ButtonAppearance/SelectedAppearance/ButtonAppearanceSelectedAppearance-DataPad-Gradient-App.png)
 
+App - Main Toolbar - Open File, Enable Code Completion, Comment Region, Uncomment Region Buttons
+![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/ButtonAppearance/SelectedAppearance/ButtonAppearanceSelectedAppearance-MainToolbar-Gradient-App.png)
+
+App - Solution Explorer - Just Show All Files button
+![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/ButtonAppearance/SelectedAppearance/ButtonAppearanceSelectedAppearance-SolutionExplorer-Gradient-App.png)
+
+Dct - Main Toolbar - Just Open File button
+![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/ButtonAppearance/SelectedAppearance/ButtonAppearanceSelectedAppearance-MainToolbar-Gradient-Dct.png)
+
+Dct - Dct Toolbar - Close, Browse Table, Dictionary Properties, Users, Open Diagram, Import/Export, Search in the Data Dictionary buttons
+![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/ButtonAppearance/SelectedAppearance/ButtonAppearanceSelectedAppearance-DctToolbar-Gradient-Dct.png)
+
+Dct - Table Toolbar - Close, Expand All Nodes, Contract All Nodes buttons
+![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/ButtonAppearance/SelectedAppearance/ButtonAppearanceSelectedAppearance-Table-Gradient-Dct.png)
 
 
 
