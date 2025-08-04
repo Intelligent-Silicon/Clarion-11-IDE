@@ -467,11 +467,7 @@ Default
 </CheckedAppearance>
 ```
 
-Look at the Key icons
-
-Dct
-![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/ButtonAppearance/CheckedAppearance/ButtonAppearanceCheckedAppearance-Dct.png)
-
+No Visible Changes
 
 ```
 <CheckedAppearance>
