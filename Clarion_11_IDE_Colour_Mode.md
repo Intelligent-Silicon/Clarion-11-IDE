@@ -96,14 +96,7 @@ Default
     <xTextColor>-6250336</xTextColor>
 </DockTabStripAppearance>
 ```
-
-Start Page
-![DockTabStripAppearance-Start](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/DockTabStripAppearance/DockTabStripAppearance-Start.png)
-App Gen
-![DockTabStripAppearance-App](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/DockTabStripAppearance/DockTabStripAppearance-App.png)
-Dct
-![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/DockTabStripAppearance/DockTabStripAppearance-Dct.png)
-
+To show what the \<DockTabStripAppearance> section affects in the IDE, the elements are coloured shades of Red to hilight easily, in 3 views, the Start page, the AppGen and the Dictionary view.
 
 ```
 <DockTabStripAppearance>
@@ -112,7 +105,12 @@ Dct
   <xTextColor>-1</xTextColor>                  <!-- Brilliant red (#FF0000) -->
 </DockTabStripAppearance>
 ```
-
+Start Page
+![DockTabStripAppearance-Start](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/DockTabStripAppearance/DockTabStripAppearance-Start.png)
+App Gen
+![DockTabStripAppearance-App](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/DockTabStripAppearance/DockTabStripAppearance-App.png)
+Dct
+![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/DockTabStripAppearance/DockTabStripAppearance-Dct.png)
 
 ### \<DockPadTitleAppearance>
 
