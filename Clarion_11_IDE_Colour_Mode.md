@@ -46,25 +46,25 @@ You can select one of these colour schemes to colour the IDE by clicking on
 
 The XML file consists of different sections to represent the different parts of the IDE.
 ```
-\<DockTabStripAppearance>
-\<DockPadTitleAppearance>
-\<DockTabAppearance>
-\<ApplicationHeaderAppearance>
-\<StartPageAppearance>
-\<ButtonAppearance>
-\<GripAppearance>
-\<ImageMarginAppearance>
-\<MenuItemAppearance>
-\<MenuStripAppearance>
-\<OverflowButtonAppearance>
-\<RaftingContainerAppearance>
-\<SeparatorAppearance>
-\<StatusStripAppearance>
-\<ToolStripAppearance>
+<DockTabStripAppearance>
+<DockPadTitleAppearance>
+<DockTabAppearance>
+<ApplicationHeaderAppearance>
+<StartPageAppearance>
+<ButtonAppearance>
+<GripAppearance>
+<ImageMarginAppearance>
+<MenuItemAppearance>
+<MenuStripAppearance>
+<OverflowButtonAppearance>
+<RaftingContainerAppearance>
+<SeparatorAppearance>
+<StatusStripAppearance>
+<ToolStripAppearance>
 ```
 
 Within each section there will be a number of elements some of which will be paired eg
-```\<xGradientBegin>``` & ```\<xGradientEnd>```, ```\<xActiveTextColor>``` & ```\<xInactiveTextColor>```, ```\<xActiveBackColorGradientBegin>``` & ```\<xActiveBackColorGradientEnd>``` with ```\<xInactiveBackColor>```.
+```<xGradientBegin>``` & ```<xGradientEnd>```, ```<xActiveTextColor>``` & ```<xInactiveTextColor>```, ```<xActiveBackColorGradientBegin>``` & ```<xActiveBackColorGradientEnd>``` with ```<xInactiveBackColor>```.
 
 ### ARGB Numbers
 The Numbers within these elements are predominantly negative numbers eg -16777216. These are whats called ARGB (Alpha, Red, Green, Blue) number formats which are stored in a 32-bit integer (Clarion Long). You can also use basic colour names, like Red, White & Blue, and colour names like WhiteSmoke, ControlLight, ActiveBorder and GradientActiveCaption. 
