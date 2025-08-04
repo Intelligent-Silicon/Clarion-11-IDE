@@ -473,6 +473,23 @@ Dct
 ![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/ButtonAppearance/CheckedAppearance/ButtonAppearanceCheckedAppearance-Dct.png)
 
 
+```
+<CheckedAppearance>
+    <xBackground>-3874305</xBackground>
+    <xBorderHighlight>-13395457</xBorderHighlight>
+    <xGradientBegin>-65536</xGradientBegin>        <!-- Red (#FF0000) -->
+  <xGradientMiddle>-256</xGradientMiddle>        <!-- Yellow (#FFFF00) -->
+  <xGradientEnd>-16711936</xGradientEnd>         <!-- Green (#00FF00) -->
+    <xHighlight>-3874305</xHighlight>
+    <xPressedBackground>-6697729</xPressedBackground>
+    <xSelectedBackground>-6697729</xSelectedBackground>
+</CheckedAppearance>
+```
+App
+![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/ButtonAppearance/CheckedAppearance/ButtonAppearanceCheckedAppearance-Gradient-App.png)
+Dct
+![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/ButtonAppearance/CheckedAppearance/ButtonAppearanceCheckedAppearance-Gradient-Dct.png)
+
 ### \<GripAppearance>
 
 ### \<ImageMarginAppearance>
