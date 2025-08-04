@@ -407,6 +407,71 @@ Start
 ![DockTabStripAppearance-Start](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/StartPageAppearance/StartPageAppearance-Grid.png)
 
 ### \<ButtonAppearance>
+Default
+```
+<ButtonAppearance>
+    <CheckedAppearance>
+        <xBackground>-3874305</xBackground>
+        <xBorderHighlight>-13395457</xBorderHighlight>
+        <xGradientBegin>0</xGradientBegin>
+        <xGradientEnd>0</xGradientEnd>
+        <xGradientMiddle>0</xGradientMiddle>
+        <xHighlight>-3874305</xHighlight>
+        <xPressedBackground>-6697729</xPressedBackground>
+        <xSelectedBackground>-6697729</xSelectedBackground>
+    </CheckedAppearance>
+    <PressedAppearance>
+        <xBorder>-13395457</xBorder>
+        <xBorderHighlight>-13395457</xBorderHighlight>
+        <xGradientBegin>-6697729</xGradientBegin>
+        <xGradientEnd>-6697729</xGradientEnd>
+        <xGradientMiddle>-6697729</xGradientMiddle>
+        <xHighlight>-6763521</xHighlight>
+    </PressedAppearance>
+    <SelectedAppearance>
+        <xBorder>-13395457</xBorder>
+        <xBorderHighlight>-13395457</xBorderHighlight>
+        <xGradientBegin>-4005633</xGradientBegin>
+        <xGradientEnd>-4005633</xGradientEnd>
+        <xGradientMiddle>-4005633</xGradientMiddle>
+        <xHighlight>-3874305</xHighlight>
+    </SelectedAppearance>
+</ButtonAppearance>
+```
+
+### \<ButtonAppearance> \<CheckedAppearance>
+Default
+```
+<CheckedAppearance>
+    <xBackground>-3874305</xBackground>
+    <xBorderHighlight>-13395457</xBorderHighlight>
+    <xGradientBegin>0</xGradientBegin>
+    <xGradientEnd>0</xGradientEnd>
+    <xGradientMiddle>0</xGradientMiddle>
+    <xHighlight>-3874305</xHighlight>
+    <xPressedBackground>-6697729</xPressedBackground>
+    <xSelectedBackground>-6697729</xSelectedBackground>
+</CheckedAppearance>
+```
+
+```
+<CheckedAppearance>
+    <xBackground>-65536</xBackground>               <!-- Red (#FF0000) -->
+    <xBorderHighlight>-256</xBorderHighlight>       <!-- Yellow (#FFFF00) -->
+    <xGradientBegin>0</xGradientBegin>
+    <xGradientEnd>0</xGradientEnd>
+    <xGradientMiddle>0</xGradientMiddle>
+    <xHighlight>-3874305</xHighlight>
+    <xPressedBackground>-6697729</xPressedBackground>
+    <xSelectedBackground>-6697729</xSelectedBackground>
+</CheckedAppearance>
+```
+
+Look at the Key icons
+
+Dct
+![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/ButtonAppearance/CheckedAppearance/ButtonAppearanceCheckedAppearance-Dct.png)
+
 
 ### \<GripAppearance>
 
