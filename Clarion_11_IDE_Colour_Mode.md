@@ -96,7 +96,7 @@ Default
     <xTextColor>-6250336</xTextColor>
 </DockTabStripAppearance>
 ```
-![DockTabStripAppearance](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/DockTabStripAppearance.png)
+![DockTabStripAppearance](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/DockTabStripAppearance/DockTabStripAppearance.png)
 
 ```
 <DockTabStripAppearance>
