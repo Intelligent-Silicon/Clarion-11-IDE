@@ -808,9 +808,31 @@ Start - Solution Explorer - Add Existing Project
 
 
 
+```
+<MenuItemAppearance>
+    <xBorder>-13395457</xBorder>
+    <xPressedGradientBegin>-65536</xPressedGradientBegin>       <!-- Red (#FF0000) -->
+    <xPressedGradientEnd>-16711936</xPressedGradientEnd>        <!-- Green (#00FF00) -->
+    <xPressedGradientMiddle>-256</xPressedGradientMiddle>       <!-- Yellow (#FFFF00) -->
+    <xSelected>-3874305</xSelected>
+    <xSelectedGradientBegin>-4005633</xSelectedGradientBegin>
+    <xSelectedGradientEnd>-4005633</xSelectedGradientEnd>
+</MenuItemAppearance>
+```
+Start - Main Menu - File Start
+![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/MenuItemAppearance/MenuItemAppearance-Gradient-MainMenu-File-App.png)
 
+Start - Main Menu - Build
+![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/MenuItemAppearance/MenuItemAppearance-Gradient-MainMenu-Build-App.png)
 
+Start - Main Menu - Debug
+![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/MenuItemAppearance/MenuItemAppearance-Gradient-MainMenu-Debug-App.png)
 
+Start - DataPad
+![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/MenuItemAppearance/MenuItemAppearance-Gradient-DataPad-App.png)
+
+Start - Export Dct
+![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/MenuItemAppearance/MenuItemAppearance-Gradient-ExportDct-Dct.png)
 
 ### \<MenuStripAppearance>
 
