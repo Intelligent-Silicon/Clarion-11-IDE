@@ -14,5 +14,7 @@ This is work in progress.
 
 [Clarion 11 IDE Fonts](Clarion_11_IDE_Fonts.md)
 
+[Clarion 11 IDE Version Numbers](Clarion_11_IDE_Version_Numbers.md)
+
 
 
