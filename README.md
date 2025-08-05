@@ -9,3 +9,5 @@
 
 [Clarion 11 IDE Tab Style](Clarion_11_IDE_TabStyle.md)
 
+[Clarion 11 IDE Ambience](Clarion_11_IDE_Ambience.md)
+
