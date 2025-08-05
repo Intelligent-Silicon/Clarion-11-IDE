@@ -75,7 +75,7 @@ which translates to:
 
  ```C:\Clarion11\data\resources\ColorThemes```.
 
-Its this folder, where you import or add your own Toolbar color scheme XML files.
+Its this folder, where you import or add your own "Toolbar" but should be called "IDE" color scheme XML files.
 
 The standard Toolbar colour schemes which ship with Clarion are:
 | Colour Scheme |
@@ -89,7 +89,6 @@ The standard Toolbar colour schemes which ship with Clarion are:
 | OfficeClassic.xml |
 | OfficeXP.xml |
 | SerenityBlue.xml |
-| VSDark.xml |
 | Win8Blue.xml |
 | Win10Blue.xml |
 
@@ -157,7 +156,7 @@ To show what the \<DockTabStripAppearance> section affects in the IDE, the eleme
 <DockTabStripAppearance>
   <xGradientBegin>-65536</xGradientBegin>      <!-- Dark red (#FF0000) -->
   <xGradientEnd>-25856</xGradientEnd>          <!-- Light red (#FF6A6A) -->
-  <xTextColor>-1</xTextColor>                  <!-- Brilliant red (#FF0000) -->
+  <xTextColor>-1</xTextColor>                  
 </DockTabStripAppearance>
 ```
 Start Page
@@ -953,6 +952,41 @@ Dct - DataPad
 
 Dct - Properties
 ![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/MenuStripAppearance/MenuStripAppearance-Border-Properties-Dct.png)
+
+
+The next two examples reverse the order of Red and Green. You can see some pads have their border coloured. This appears to be a bug in the #Develop IDE.
+```
+<MenuStripAppearance>
+    <xBorder>-8355712</xBorder>
+    <xGradientBegin>-65536</xGradientBegin>         <!-- Red (#FF0000) -->
+    <xGradientEnd>-16711936</xGradientEnd>          <!-- Green (#00FF00) -->
+</MenuStripAppearance>
+```
+Start 
+![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/MenuStripAppearance/MenuStripAppearance-Gradient-Start.png)
+
+App
+![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/MenuStripAppearance/MenuStripAppearance-Gradient-App.png)
+
+Dct
+![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/MenuStripAppearance/MenuStripAppearance-Gradient-Dct.png)
+
+```
+<MenuStripAppearance>
+    <xBorder>-8355712</xBorder>
+    <xGradientBegin>-16711936</xGradientBegin>          <!-- Green (#00FF00) -->
+    <xGradientEnd>-65536</xGradientEnd>                 <!-- Red (#FF0000) -->
+</MenuStripAppearance>
+```
+Start 
+![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/MenuStripAppearance/MenuStripAppearance-Gradient2-Start.png)
+
+App
+![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/MenuStripAppearance/MenuStripAppearance-Gradient2-App.png)
+
+Dct
+![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/MenuStripAppearance/MenuStripAppearance-Gradient2-Dct.png)
+
 
 ### \<OverflowButtonAppearance>
 
