@@ -9,6 +9,8 @@ The ```quick class browser``` needs to be switched on. The option for this can b
 
 The Code Completion needs to be switched on. The option for this can be found in ```Tools, Options, Text Editor, Code Completion, Enable code completion check box```.
 
-
+Clarion
 ![Image](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/Ambience/Clarion-Ambience.png)
+
+.Net 
 ![Image](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/Ambience/DotNet-Ambience.png)
