@@ -126,7 +126,7 @@ The numbers within these elements are predominantly negative numbers eg -1677721
 You can find a full list of these named system colors in the [.NET SystemColors Class](https://learn.microsoft.com/en-us/dotnet/api/system.drawing.systemcolors?view=net-9.0) documentation. It includes colors like ControlLight, ActiveBorder, GradientActiveCaption, and many others used in Windows UI elements.
 For a more visual and OS-specific breakdown, this [GitHub gist of Windows system colors](https://gist.github.com/zaxbux/64b5a88e2e390fb8f8d24eb1736f71e0) is good. It shows the RGB and hex values for each color, grouped by UI category—like window borders, captions, controls, and text.
 
-ARGB numbers range from 0 to 255, and the negative 32bit integer is calculated using Bshift, if you fancy building your own Clarion tool to modify the colour scheme XML files.
+ARGB numbers range from 0 to 255, and the negative 32bit integer is calculated using Bshift, if you fancy building your own Clarion tool to modify the colour scheme XML files, or you can simply click the ellipse button next to the drop down list box listing the Toolbar colour schemes.
 
 ```Clarion
 ARGBColor  LONG
