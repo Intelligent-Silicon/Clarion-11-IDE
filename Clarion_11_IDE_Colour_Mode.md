@@ -1048,7 +1048,7 @@ Default
 ```
   <SeparatorAppearance>
     <xDark>-65536</xDark>                   <!-- Red (#FF0000) -->
-    <xLight>-16711936</xLight>                     <!-- Green (#00FF00) -->
+    <xLight>-16711936</xLight>              <!-- Green (#00FF00) -->
   </SeparatorAppearance>
 ```
 
