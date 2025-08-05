@@ -1065,6 +1065,31 @@ Dct - Toolbars - Pads
 ![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/SeparatorAppearance/SeparatorAppearance-Toolbars-Pads-Dct.png)
 
 ### \<StatusStripAppearance>
+Default
+```
+<StatusStripAppearance>
+    <xGradientBegin>-986896</xGradientBegin>
+    <xGradientEnd>-197380</xGradientEnd>
+</StatusStripAppearance>
+```
+
+```
+<StatusStripAppearance>
+    <xGradientBegin>-65536</xGradientBegin>     <!-- Red (#FF0000) -->
+    <xGradientEnd>-16711936</xGradientEnd>      <!-- Green (#00FF00) -->
+</StatusStripAppearance>
+```
+
+
+Start
+![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/StatusStripAppearance/StatusStripAppearance-Start.png)
+
+App
+![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/StatusStripAppearance/StatusStripAppearance-App.png)
+
+Dct
+![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/StatusStripAppearance/StatusStripAppearance-Dct.png)
+
 
 ### \<ToolStripAppearance>
 
