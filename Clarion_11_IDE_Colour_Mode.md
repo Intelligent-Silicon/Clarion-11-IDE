@@ -1184,7 +1184,7 @@ Start
 ![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/ToolStripAppearance/ToolStripAppearance-Gradient-Start.png)
 
 App - Window Formatter
-![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/ToolStripAppearance-Gradient-WindowFormatter-App.png)
+![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/ToolStripAppearance/ToolStripAppearance-Gradient-WindowFormatter-App.png)
 
 Dct
-![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/ToolStripAppearance-Gradient-Dct.png)
+![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/ToolStripAppearance/ToolStripAppearance-Gradient-Dct.png)
