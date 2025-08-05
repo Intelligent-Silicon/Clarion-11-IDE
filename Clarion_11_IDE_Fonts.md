@@ -1,6 +1,6 @@
 # Clarion 11 IDE Fonts
 
-The Clarion 11 IDE has a section where the Fonts for the IDE can be set. The GUI doesnt provide any facility to change the text colour.
+The Clarion 11 IDE has a section where the Fonts for the IDE can be set. The GUI doesnt provide any facility to change the text colour and there isnt an option in the XML sections below.
 
 You can find this section in ```Tools, Options, IDE, Fonts```.
 
@@ -19,14 +19,18 @@ These settings are stored in the ```C:\Users\[Username]\AppData\Roaming\SoftVelo
 ```
 <Properties name="CoreProperties.ComponentsFont">
     <Array name="ListOfFonts">
-        <Element value="ListControls|List Controls|SimSun,9" />
-        <Element value="StartPage|Start Page|SimSun,17" />
-        <Element value="TextEditor|Text Editor, Output Window (Proportional Font)|SimSun,12" />
+        <Element value="ListControls|List Controls|Segoe UI,9" />
+        <Element value="StartPage|Start Page|Segoe UI,17" />
+        <Element value="TextEditor|Text Editor, Output Window (Proportional Font)|Courier New,12" />
     </Array>
 </Properties>
 <Properties name="AppGen Dialogs">
-    <DlgFontName value="SimSun" />
+    <DlgFontName value="Segoe UI" />
     <DlgFontSize value="9" />
     <DlgFontStyle value="400" />
 </Properties>
 ```
+
+However there is a section where it appears themes can be 
+
+```C:\Clarion11\data\schemas```
