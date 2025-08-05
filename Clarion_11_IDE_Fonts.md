@@ -80,14 +80,145 @@ First change, swapping all fonts for ```Tahoma```
 StartPage
 ![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/FontChanges/Tahoma-Font-StartPage.png)
 
-AppGen Tree
+AppGen Tree - 3 more procedures visible - PrintInvoice, PrintMailingLabels, PrintPRO:KeyProductSKU
 ![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/FontChanges/Tahoma-Font-AppGen-Tree.png)
 
-Embed Tree
+Embed Tree - 3 more embed nodes - Maximize, Maximize Generated Code, Maximized
 ![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/FontChanges/Tahoma-Font-Embeds.png)
 
-Embed Source
+Embed Source - 2 less lines of code - missing Rel1::Icon and Rel1::Level
 ![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/FontChanges/Tahoma-Font-EmbedEditor-Source.png)
+
+So 2nd variation is to reduce the size of Text Editor Font. 
+
+```
+<Properties name="CoreProperties.ComponentsFont">
+    <Array name="ListOfFonts">
+        <Element value="ListControls|List Controls|Tahoma,9" />
+        <Element value="StartPage|Start Page|Tahoma,17" />
+        <Element value="TextEditor|Text Editor, Output Window (Proportional Font)|Tahoma,9" />
+    </Array>
+</Properties>
+<Properties name="AppGen Dialogs">
+    <DlgFontName value="Tahoma" />
+    <DlgFontSize value="9" />
+    <DlgFontStyle value="400" />
+</Properties>
+```
+This time more lines are visible in the Text Editor.
+
+
+Embed Source - 6 more lines of code.
+![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/FontChanges/Tahoma-Font-EmbedEditor-Source-9.png)
+
+Problem is Courier New is a nice fixed font to use for coding, and Clarion 6 used MS Sans Serif, so lets see how that looks and compares.
+
+MS Sans Serif doesnt appear to ship with Windows 11, so trying out the Sans Serif Collection at the original size of 12.
+```
+<Properties name="CoreProperties.ComponentsFont">
+    <Array name="ListOfFonts">
+      <Element value="ListControls|List Controls|Tahoma,9" />
+      <Element value="StartPage|Start Page|Tahoma,17" />
+      <Element value="TextEditor|Text Editor, Output Window (Proportional Font)|Sans Serif Collection,12" />
+    </Array>
+  </Properties>
+  <Properties name="AppGen Dialogs">
+    <DlgFontName value="Tahoma" />
+    <DlgFontSize value="9" />
+    <DlgFontStyle value="400" />
+  </Properties>
+```
+Embed Source - SansSerif Collection Size 12.
+![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/FontChanges/SansSerif-Font-EmbedEditor-Source-12.png)
+
+
+```
+<Properties name="CoreProperties.ComponentsFont">
+    <Array name="ListOfFonts">
+      <Element value="ListControls|List Controls|Tahoma,9" />
+      <Element value="StartPage|Start Page|Tahoma,17" />
+      <Element value="TextEditor|Text Editor, Output Window (Proportional Font)|Sans Serif Collection,9" />
+    </Array>
+  </Properties>
+  <Properties name="AppGen Dialogs">
+    <DlgFontName value="Tahoma" />
+    <DlgFontSize value="9" />
+    <DlgFontStyle value="400" />
+  </Properties>
+```
+
+Embed Source - SansSerif Collection Size 9 - Still unusable!
+![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/FontChanges/SansSerif-Font-EmbedEditor-Source-9.png)
+
+
+Cascadia Code is a new font designed by Microsoft specifically for Developers. Its now the default font in Visual Studio. 
+
+It can be downloaded from here: https://github.com/microsoft/cascadia-code
+
+Installation Steps:
+
+- Go to the Releases section on the GitHub page. (https://github.com/microsoft/cascadia-code/releases)
+
+- Download the latest .zip file (look for one labeled something like ttf or variable).
+
+- Unzip the file and locate the .ttf font files.
+
+- Right-click on each font file and select Install or Install for all users.
+
+Reload Clarion and select Cascadia Code, and then reload Clarion once more.
+
+```
+  <Properties name="CoreProperties.ComponentsFont">
+    <Array name="ListOfFonts">
+      <Element value="ListControls|List Controls|Tahoma,9" />
+      <Element value="StartPage|Start Page|Tahoma,17" />
+      <Element value="TextEditor|Text Editor, Output Window (Proportional Font)|Cascadia Code,12" />
+    </Array>
+  </Properties>
+  <Properties name="AppGen Dialogs">
+    <DlgFontName value="Tahoma" />
+    <DlgFontSize value="9" />
+    <DlgFontStyle value="400" />
+  </Properties>
+```
+Embed Source - Cascadia Code Size 12 - Nice, but less lines visible.
+![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/FontChanges/Cascadia-Code-Font-EmbedEditor-Source-12.png)
+
+
+```
+  <Properties name="CoreProperties.ComponentsFont">
+    <Array name="ListOfFonts">
+      <Element value="ListControls|List Controls|Tahoma,9" />
+      <Element value="StartPage|Start Page|Tahoma,17" />
+      <Element value="TextEditor|Text Editor, Output Window (Proportional Font)|Cascadia Code,9" />
+    </Array>
+  </Properties>
+  <Properties name="AppGen Dialogs">
+    <DlgFontName value="Tahoma" />
+    <DlgFontSize value="9" />
+    <DlgFontStyle value="400" />
+  </Properties>
+```
+
+Embed Source - Cascadia Code Size 9 - Nice, more lines but a bit too small, especially on this tiny low quality laptop screen.
+![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/FontChanges/Cascadia-Code-Font-EmbedEditor-Source-9.png)
+
+```
+  <Properties name="CoreProperties.ComponentsFont">
+    <Array name="ListOfFonts">
+      <Element value="ListControls|List Controls|Cascadia Code,10" />
+      <Element value="StartPage|Start Page|Cascadia Code,17" />
+      <Element value="TextEditor|Text Editor, Output Window (Proportional Font)|Cascadia Code,10" />
+    </Array>
+  </Properties>
+  <Properties name="AppGen Dialogs">
+    <DlgFontName value="Cascadia Code" />
+    <DlgFontSize value="10" />
+    <DlgFontStyle value="400" />
+  </Properties>
+```
+Embed Source - Cascadia Code Size 10 - Nice, more lines and usable, especially on this tiny low quality laptop screen.
+![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/FontChanges/Cascadia-Code-Font-EmbedEditor-Source-10.png)
 
 However there is a section where it appears themes can be added.
 
