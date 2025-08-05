@@ -46,8 +46,16 @@ The shortest in height is at the top of the list, which in this case is Tahoma.
 
 So here will Reset the IDE and take screen shots of the Default Layouts, paying attention to what is and is not visible.
 StartPage
+![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/FontChanges/Default-Font-StartPage.png)
 
-![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/DockTabStripAppearance/DockTabStripAppearance-Dct.png)
+AppGen Tree
+![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/FontChanges/Default-Font-AppGen-Tree.png)
+
+Embed Tree
+![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/FontChanges/Default-Font-Embeds.png)
+
+Embed Source
+![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/FontChanges/Default-Font-EmbedEditor-Source.png)
 
 Default-Font-StartPage
 
