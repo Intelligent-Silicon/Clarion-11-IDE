@@ -873,6 +873,43 @@ Dct - ExportDct
 Dct - Window
 ![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/MenuItemAppearance/MenuItemAppearance-Selected-Window-Dct.png)
 
+
+```
+<MenuItemAppearance>
+    <xBorder>-13395457</xBorder>
+    <xPressedGradientBegin>-197380</xPressedGradientBegin>
+    <xPressedGradientEnd>-460552</xPressedGradientEnd>
+    <xPressedGradientMiddle>-657931</xPressedGradientMiddle>
+    <xSelected>-3874305</xSelected>
+    <xSelectedGradientBegin>-65536</xSelectedGradientBegin>     <!-- Red (#FF0000) -->
+    <xSelectedGradientEnd>-16711936</xSelectedGradientEnd>      <!-- Green (#00FF00) -->
+</MenuItemAppearance>
+```
+Start - MainMenu - File
+![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/MenuItemAppearance/MenuItemAppearance-SelectedGradient-MainMenu-File-Start.png)
+
+Start - MainMenu - Window
+![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/MenuItemAppearance/MenuItemAppearance-SelectedGradient-MainMenu-Window-Start.png)
+
+Start - MainMenu - AddExisting
+![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/MenuItemAppearance/MenuItemAppearance-SelectedGradient-MainMenu-AddExisting-Start.png)
+
+Start - MainMenu - Debug
+![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/MenuItemAppearance/MenuItemAppearance-SelectedGradient-MainMenu-Debug-Start.png)
+
+Start - Toolbar - StartPage
+![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/MenuItemAppearance/MenuItemAppearance-SelectedGradient-Toolbar-StartPage-Start.png)
+
+App - SolutionExplorer - Properties
+![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/MenuItemAppearance/MenuItemAppearance-SelectedGradient-SolutionExplorer-Properties-App.png)
+
+App - SolutionExplorer - Refresh
+![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/MenuItemAppearance/MenuItemAppearance-SelectedGradient-SolutionExplorer-Refresh-App.png)
+
+App - SolutionExplorer - Open
+![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/MenuItemAppearance/MenuItemAppearance-SelectedGradient-SolutionExplorer-Open-App.png)
+
+
 ### \<MenuStripAppearance>
 
 ### \<OverflowButtonAppearance>
