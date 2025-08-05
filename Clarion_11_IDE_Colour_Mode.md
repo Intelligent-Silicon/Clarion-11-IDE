@@ -1188,3 +1188,20 @@ App - Window Formatter
 
 Dct
 ![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/ToolStripAppearance/ToolStripAppearance-Gradient-Dct.png)
+
+
+```
+<ToolStripAppearance>
+    <xBorder>-855310</xBorder>              
+    <xContentPanelGradientBegin>-986896</xContentPanelGradientBegin>
+    <xContentPanelGradientEnd>-197380</xContentPanelGradientEnd>
+    <xDropDownBackground>-131587</xDropDownBackground>
+    <xGradientBegin>-197380</xGradientBegin>
+    <xGradientEnd>-986896</xGradientEnd>
+    <xGradientMiddle>-460552</xGradientMiddle>
+    <xPanelGradientBegin>-65536</xPanelGradientBegin>       <!-- Red (#FF0000) -->
+    <xPanelGradientEnd>-16711936</xPanelGradientEnd>        <!-- Green (#00FF00) -->
+</ToolStripAppearance>
+```
+
+No Visible Change
