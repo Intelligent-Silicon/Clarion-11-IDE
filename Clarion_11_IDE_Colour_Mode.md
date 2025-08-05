@@ -764,6 +764,38 @@ Dct - Table View
 
 
 ### \<MenuItemAppearance>
+Default
+```
+<MenuItemAppearance>
+    <xBorder>-13395457</xBorder>
+    <xPressedGradientBegin>-197380</xPressedGradientBegin>
+    <xPressedGradientEnd>-460552</xPressedGradientEnd>
+    <xPressedGradientMiddle>-657931</xPressedGradientMiddle>
+    <xSelected>-3874305</xSelected>
+    <xSelectedGradientBegin>-4005633</xSelectedGradientBegin>
+    <xSelectedGradientEnd>-4005633</xSelectedGradientEnd>
+</MenuItemAppearance>
+```
+
+```
+<MenuItemAppearance>
+    <xBorder>-65536</xBorder>                               <!-- Red highlight (#FF0000) -->
+    <xPressedGradientBegin>-197380</xPressedGradientBegin>
+    <xPressedGradientEnd>-460552</xPressedGradientEnd>
+    <xPressedGradientMiddle>-657931</xPressedGradientMiddle>
+    <xSelected>-3874305</xSelected>
+    <xSelectedGradientBegin>-4005633</xSelectedGradientBegin>
+    <xSelectedGradientEnd>-4005633</xSelectedGradientEnd>
+</MenuItemAppearance>
+```
+Start - Main Menu - File Start
+![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/MenuItemAppearance/MenuItemAppearance-MainMenu-File-Start.png)
+
+Start - Main Menu - Navigate Forward
+![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/MenuItemAppearance/MenuItemAppearance-MainMenu-Navigate-Forward.png)
+
+Start - Main Menu - Navigate Forward
+![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/MenuItemAppearance/MenuItemAppearance-MainMenu-Navigate-Forward.png)
 
 ### \<MenuStripAppearance>
 
@@ -778,15 +810,3 @@ Dct - Table View
 ### \<ToolStripAppearance>
 
 
-<StartPageAppearance>
-  <xGradientBegin>-16777216</xGradientBegin>        <!-- Black -->
-  <xGradientEnd>-14540253</xGradientEnd>            <!-- Dark gray -->
-  <xSecondaryColor>DimGray</xSecondaryColor>        <!-- Soft dark gray -->
-  <xPrimaryColor>-5592406</xPrimaryColor>           <!-- Deep muted purple -->
-  <xButtonImageColor>-16744448</xButtonImageColor>  <!-- Teal (good pop on dark) -->
-  <xGridHeaderColor>DarkGray</xGridHeaderColor>     <!-- For grid header contrast -->
-  <xGridBodyColor>Black</xGridBodyColor>            <!-- Main background -->
-  <xGridAltBodyColor>DimGray</xGridAltBodyColor>    <!-- Alternating row shade -->
-  <xGridLineColorr>SlateGray</xGridLineColorr>      <!-- Grid lines -->
-  <xGridHoverColorr>SteelBlue</xGridHoverColorr>    <!-- Hover effect -->
-</StartPageAppearance>
