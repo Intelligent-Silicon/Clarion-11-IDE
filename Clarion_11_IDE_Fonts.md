@@ -220,6 +220,40 @@ Embed Source - Cascadia Code Size 9 - Nice, more lines but a bit too small, espe
 Embed Source - Cascadia Code Size 10 - Nice, more lines and usable, especially on this tiny low quality laptop screen.
 ![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/FontChanges/Cascadia-Code-Font-EmbedEditor-Source-10.png)
 
+Now the ```Tahoma``` is just a little bit too thin, the i's and l's dont have much space between them, so a short in height font but one thats wide might be better
+for this low quality laptop monitor. Verdana is another font which fits that bill, so using this as a font with the sizes shown below, lets have a look at how it compares.
+```
+  <Properties name="CoreProperties.ComponentsFont">
+    <Array name="ListOfFonts">
+      <Element value="ListControls|List Controls|Verdana,9" />
+      <Element value="StartPage|Start Page|Verdana,17" />
+      <Element value="TextEditor|Text Editor, Output Window (Proportional Font)|Cascadia Code,10" />
+    </Array>
+  </Properties>
+  <Properties name="AppGen Dialogs">
+    <DlgFontName value="Verdana" />
+    <DlgFontSize value="9" />
+    <DlgFontStyle value="400" />
+  </Properties>
+```
+Start Page
+![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/FontChanges/Verdana-Font-StartPage.png)
+  
+AppGen Tree
+![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/FontChanges/Verdana-Font-AppGen-Tree.png) 
+
+Window Formatter
+![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/FontChanges/Verdana-Font-WindowFormatter.png)
+
+Listbox Formatter
+![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/FontChanges/Verdana-Font-WindowFormatter-Listbox.png)
+
+Embeds
+![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/FontChanges/Verdana-Font-Embeds.png)
+
+
+
+
 However there is a section where it appears themes can be added.
 
 You can find this section in ```Tools, Options, Text Editor, XML Schemas```.
