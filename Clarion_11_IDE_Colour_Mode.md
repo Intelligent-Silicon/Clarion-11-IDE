@@ -1019,8 +1019,50 @@ Dct - DataPAd - TableView - Dct Search Results
 
 
 ### \<RaftingContainerAppearance>
+Default
+```
+<RaftingContainerAppearance>
+    <xGradientBegin>-986896</xGradientBegin>
+    <xGradientEnd>-197380</xGradientEnd>
+</RaftingContainerAppearance>
+```
+
+```
+<RaftingContainerAppearance>
+    <xGradientBegin>-65536</xGradientBegin>     <!-- Red (#FF0000) -->
+    <xGradientEnd>-16711936</xGradientEnd>      <!-- Green (#00FF00) -->
+</RaftingContainerAppearance>
+```
+No Visible Change
+
 
 ### \<SeparatorAppearance>
+Default
+```
+  <SeparatorAppearance>
+    <xDark>-4342339</xDark>                 
+    <xLight>-16711936</xLight>              
+  </SeparatorAppearance>
+```
+
+```
+  <SeparatorAppearance>
+    <xDark>-65536</xDark>                   <!-- Red (#FF0000) -->
+    <xLight>-16711936</xLight>                     <!-- Green (#00FF00) -->
+  </SeparatorAppearance>
+```
+
+Start - MainMenu - File
+![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/SeparatorAppearance/SeparatorAppearance-MainMenu-File-Start.png)
+
+Start - Toolbars
+![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/SeparatorAppearance/SeparatorAppearance-Toolbars-Start.png)
+
+App - Toolbar - Pads
+![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/SeparatorAppearance/SeparatorAppearance-Toolbars-Pads-App.png)
+
+Dct - Toolbars - Pads
+![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/SeparatorAppearance/SeparatorAppearance-Toolbars-Pads-Dct.png)
 
 ### \<StatusStripAppearance>
 
