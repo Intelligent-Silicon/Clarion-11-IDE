@@ -31,6 +31,22 @@ These settings are stored in the ```C:\Users\[Username]\AppData\Roaming\SoftVelo
 </Properties>
 ```
 
-However there is a section where it appears themes can be 
+Font's in terms of shortest in height suitable for developers. (Shortest first). The shorter the font, the more real estate you can gain from the Clarion IDE.
+
+| \# | Font Name | 
+| --- | --- |  
+| 1. | Tahoma |
+| 2. | Open Sans |
+| 3. | Noto Sans |
+| 4. | Inter |
+| 5. | Roboto |
+| 6. | Cascadia Code |
+
+
+
+
+However there is a section where it appears themes can be added.
+
+You can find this section in ```Tools, Options, Text Editor, XML Schemas```.
 
 ```C:\Clarion11\data\schemas```
