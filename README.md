@@ -11,3 +11,7 @@
 
 [Clarion 11 IDE Ambience](Clarion_11_IDE_Ambience.md)
 
+[Clarion 11 IDE Fonts](Clarion_11_IDE_Fonts.md)
+
+
+
