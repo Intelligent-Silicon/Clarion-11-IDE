@@ -989,6 +989,34 @@ Dct
 
 
 ### \<OverflowButtonAppearance>
+Default
+```
+<OverflowButtonAppearance>
+    <xGradientBegin>-657931</xGradientBegin>
+    <xGradientEnd>-6250336</xGradientEnd>
+    <xGradientMiddle>-855310</xGradientMiddle>
+</OverflowButtonAppearance>
+```
+
+```
+<OverflowButtonAppearance>
+    <xGradientBegin>-65536</xGradientBegin>     <!-- Red (#FF0000) -->
+    <xGradientEnd>-16711936</xGradientEnd>      <!-- Green (#00FF00) -->
+    <xGradientMiddle>-256</xGradientMiddle>     <!-- Yellow (#FFFF00) -->
+</OverflowButtonAppearance>
+```
+Start - DataPad 
+![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/OverflowButtonAppearance/OverflowButtonAppearance-DataPad-Start.png)
+
+App - DataPad
+![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/OverflowButtonAppearance/OverflowButtonAppearance-DataPad-App.png)
+
+App - DataPad - Properties
+![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/OverflowButtonAppearance/OverflowButtonAppearance-DataPad-Properties-App.png)
+
+Dct - DataPAd - TableView - Dct Search Results
+![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/OverflowButtonAppearance/OverflowButtonAppearance-DataPad-TableView-DctSearchResults-Dct.png)
+
 
 ### \<RaftingContainerAppearance>
 
