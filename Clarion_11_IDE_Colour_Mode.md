@@ -929,28 +929,28 @@ Default
 ```
 
 Start - MainMenu - FileStart
-![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/MenuItemAppearance/MenuStripAppearance-Border-MainMenu-File-Start.png)
+![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/MenuStripAppearance/MenuStripAppearance-Border-MainMenu-File-Start.png)
 
 Start - MainMenu - Build
-![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/MenuItemAppearance/MenuStripAppearance-Border-MainMenu-Build-Start.png)
+![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/MenuStripAppearance/MenuStripAppearance-Border-MainMenu-Build-Start.png)
 
 Start - Toolbar - OpenFile
-![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/MenuItemAppearance/MenuStripAppearance-Border-Toolbar-OpenFile-Start.png)
+![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/MenuStripAppearance/MenuStripAppearance-Border-Toolbar-OpenFile-Start.png)
 
 Start - SolutionExplorer
-![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/MenuItemAppearance/MenuStripAppearance-Border-SolutionExplorer-Start.png)
+![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/MenuStripAppearance/MenuStripAppearance-Border-SolutionExplorer-Start.png)
 
 Dct - DataPad - RightMouseClickMenu
-![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/MenuItemAppearance/MenuStripAppearance-Border-DataPad-RightMouseMenu-Dct.png)
+![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/MenuStripAppearance/MenuStripAppearance-Border-DataPad-RightMouseMenu-Dct.png)
 
 Dct - Import/Export
-![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/MenuItemAppearance/MenuStripAppearance-Border-ImportExport-Dct.png)
+![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/MenuStripAppearance/MenuStripAppearance-Border-ImportExport-Dct.png)
 
 Dct - DataPad
-![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/MenuStripAppearance-Border-DataPad-Dct.png)
+![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/MenuStripAppearance/MenuStripAppearance-Border-DataPad-Dct.png)
 
 Dct - Properties
-![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/MenuStripAppearance-Border-Properties-Dct.png)
+![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/MenuStripAppearance/MenuStripAppearance-Border-Properties-Dct.png)
 
 ### \<OverflowButtonAppearance>
 
