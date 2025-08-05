@@ -14,7 +14,7 @@ The first dropdown list box lists the different parts of the IDE and below that 
 | Text Editor, Output Window, (Proportional Font). | Courier New  | 12 |
 
 
-These settings are stored in the ```C:\Users\[Username]\AppData\Roaming\SoftVelocity\Clarion\11.0\ClarionProperties.xml``` file.
+These settings are stored in the ```%UserProfile%\AppData\Roaming\SoftVelocity\Clarion\11.0\ClarionProperties.xml``` file.
 
 ```
 <Properties name="CoreProperties.ComponentsFont">
@@ -31,7 +31,8 @@ These settings are stored in the ```C:\Users\[Username]\AppData\Roaming\SoftVelo
 </Properties>
 ```
 
-Font's in terms of shortest in height suitable for developers. (Shortest first). The shorter the font, the more real estate you can gain from the Clarion IDE.
+In order to gain more real estate in the IDE, choosing a legible font is important. List below are fonts which ship with Windows 11 and are favourable for developers.
+The shortest in height is at the top of the list, which in this case is Tahoma.
 
 | \# | Font Name | 
 | --- | --- |  
@@ -43,6 +44,32 @@ Font's in terms of shortest in height suitable for developers. (Shortest first).
 | 6. | Cascadia Code |
 
 
+So here will Reset the IDE and take screen shots of the Default Layouts, paying attention to what is and is not visible.
+StartPage
+
+![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/DockTabStripAppearance/DockTabStripAppearance-Dct.png)
+
+Default-Font-StartPage
+
+
+
+
+
+First version, swapping all fonts for ```Tahoma```
+```
+<Properties name="CoreProperties.ComponentsFont">
+    <Array name="ListOfFonts">
+        <Element value="ListControls|List Controls|Tahoma,9" />
+        <Element value="StartPage|Start Page|Tahoma,17" />
+        <Element value="TextEditor|Text Editor, Output Window (Proportional Font)|Tahoma,12" />
+    </Array>
+</Properties>
+<Properties name="AppGen Dialogs">
+    <DlgFontName value="Tahoma" />
+    <DlgFontSize value="9" />
+    <DlgFontStyle value="400" />
+</Properties>
+```
 
 
 However there is a section where it appears themes can be added.
