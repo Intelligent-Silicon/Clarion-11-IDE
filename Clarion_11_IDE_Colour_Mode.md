@@ -1,6 +1,8 @@
 # Clarion 11 IDE Colour Mode
 
-The Clarion 11 IDE permits different colour modes to be used.
+The Clarion 11 IDE permits different colour modes to be used. 
+
+These settings affect the #Develop parts of the IDE, and not the main AppGen & Dct part's of the IDE.
 
 [Toolbar Color Schemes](Clarion_11_IDE_Colour_Mode.md#toolbar-color-schemes)
 
