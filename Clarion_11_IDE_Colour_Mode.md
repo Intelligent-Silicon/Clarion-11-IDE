@@ -834,6 +834,43 @@ Start - DataPad
 Start - Export Dct
 ![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/MenuItemAppearance/MenuItemAppearance-Gradient-ExportDct-Dct.png)
 
+
+```
+<MenuItemAppearance>
+    <xBorder>-13395457</xBorder>
+    <xPressedGradientBegin>-197380</xPressedGradientBegin>
+    <xPressedGradientEnd>-460552</xPressedGradientEnd>
+    <xPressedGradientMiddle>-657931</xPressedGradientMiddle>
+    <xSelected>-65536</xSelected>                               <!-- Red highlight (#FF0000) -->
+    <xSelectedGradientBegin>-4005633</xSelectedGradientBegin>
+    <xSelectedGradientEnd>-4005633</xSelectedGradientEnd>
+</MenuItemAppearance>
+```
+Start - File - Recent
+![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/MenuItemAppearance/MenuItemAppearance-Selected-File-Recent-Start.png)
+
+Start - View
+![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/MenuItemAppearance/MenuItemAppearance-Selected-View-Start.png)
+
+Start - View - Tools
+![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/MenuItemAppearance/MenuItemAppearance-Selected-View-Tools-Start.png)
+
+Start - Build
+![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/MenuItemAppearance/MenuItemAppearance-Selected-Build-Start.png)
+
+Start - Tools
+![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/MenuItemAppearance/MenuItemAppearance-Selected-Tools-Start.png)
+
+App - Edit Globals
+![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/MenuItemAppearance/MenuItemAppearance-Selected-EditGlobals-App.png)
+
+Dct - ExportDct
+![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/MenuItemAppearance/MenuItemAppearance-Selected-ExportDct-Dct-App.png)
+
+
+
+
+
 ### \<MenuStripAppearance>
 
 ### \<OverflowButtonAppearance>
