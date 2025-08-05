@@ -12,3 +12,21 @@ The first dropdown list box lists the different parts of the IDE and below that 
 | List Controls | Segoe UI | 9 |
 | Start Page | Segoe UI | 17 |
 | Text Editor, Output Window, (Proportional Font). | Courier New  | 12 |
+
+
+These settings are stored in the ```C:\Users\[Username]\AppData\Roaming\SoftVelocity\Clarion\11.0\ClarionProperties.xml``` file.
+
+```
+<Properties name="CoreProperties.ComponentsFont">
+    <Array name="ListOfFonts">
+        <Element value="ListControls|List Controls|SimSun,9" />
+        <Element value="StartPage|Start Page|SimSun,17" />
+        <Element value="TextEditor|Text Editor, Output Window (Proportional Font)|SimSun,12" />
+    </Array>
+</Properties>
+<Properties name="AppGen Dialogs">
+    <DlgFontName value="SimSun" />
+    <DlgFontSize value="9" />
+    <DlgFontStyle value="400" />
+</Properties>
+```
