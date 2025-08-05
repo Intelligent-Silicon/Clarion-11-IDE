@@ -791,11 +791,26 @@ Default
 Start - Main Menu - File Start
 ![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/MenuItemAppearance/MenuItemAppearance-MainMenu-File-Start.png)
 
-Start - Main Menu - Navigate Forward
-![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/MenuItemAppearance/MenuItemAppearance-MainMenu-Navigate-Forward.png)
+Start - Main Menu - File Start - Recent
+![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/MenuItemAppearance/MenuItemAppearance-MainMenu-File-Start-Recent-App.png)
+
+Start - Main Menu - Edit
+![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/MenuItemAppearance/MenuItemAppearance-MainMenu-Edit-App.png)
 
 Start - Main Menu - Navigate Forward
 ![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/MenuItemAppearance/MenuItemAppearance-MainMenu-Navigate-Forward.png)
+
+Start - Solution Explorer - Close Existing Project
+![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/MenuItemAppearance/MenuItemAppearance-MainMenu-SolutionExplorer-CloseExistingProject.png)
+
+Start - Solution Explorer - Add Existing Project
+![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/MenuItemAppearance/MenuItemAppearance-MainMenu-SolutionExplorer-AddExistingProject-App.png)
+
+
+
+
+
+
 
 ### \<MenuStripAppearance>
 
