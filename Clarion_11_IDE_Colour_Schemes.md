@@ -782,23 +782,6 @@ Start Page
 ![Image](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/ColourSchemes/Discovery/MenuStripAppearance/Gradient/StartPage.png)
 
 
-```
-<MenuStripAppearance>
-    <xBorder>-8355712</xBorder>
-    <xGradientBegin>-16711936</xGradientBegin>          <!-- Green (#00FF00) -->
-    <xGradientEnd>-65536</xGradientEnd>                 <!-- Red (#FF0000) -->
-</MenuStripAppearance>
-```
-Start 
-![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/MenuStripAppearance/MenuStripAppearance-Gradient2-Start.png)
-
-App
-![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/MenuStripAppearance/MenuStripAppearance-Gradient2-App.png)
-
-Dct
-![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/MenuStripAppearance/MenuStripAppearance-Gradient2-Dct.png)
-
-
 ### \<OverflowButtonAppearance>
 Default
 ```
@@ -811,22 +794,13 @@ Default
 
 ```
 <OverflowButtonAppearance>
-    <xGradientBegin>-65536</xGradientBegin>     <!-- Red (#FF0000) -->
-    <xGradientEnd>-16711936</xGradientEnd>      <!-- Green (#00FF00) -->
-    <xGradientMiddle>-256</xGradientMiddle>     <!-- Yellow (#FFFF00) -->
+    <xGradientBegin>-65536</xGradientBegin>         <!-- Red (#FF0000) -->
+    <xGradientEnd>-256</xGradientEnd>               <!-- Yellow (#FFFF00) -->
+    <xGradientMiddle>-23296</xGradientMiddle>       <!-- Orange (#FFA500) -->
 </OverflowButtonAppearance>
 ```
-Start - DataPad 
-![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/OverflowButtonAppearance/OverflowButtonAppearance-DataPad-Start.png)
-
-App - DataPad
-![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/OverflowButtonAppearance/OverflowButtonAppearance-DataPad-App.png)
-
-App - DataPad - Properties
-![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/OverflowButtonAppearance/OverflowButtonAppearance-DataPad-Properties-App.png)
-
-Dct - DataPAd - TableView - Dct Search Results
-![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/OverflowButtonAppearance/OverflowButtonAppearance-DataPad-TableView-DctSearchResults-Dct.png)
+Start Page
+![Image](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/ColourSchemes/Discovery/OverflowButtonAppearance/StartPage.png)
 
 
 ### \<RaftingContainerAppearance>
@@ -841,7 +815,7 @@ Default
 ```
 <RaftingContainerAppearance>
     <xGradientBegin>-65536</xGradientBegin>     <!-- Red (#FF0000) -->
-    <xGradientEnd>-16711936</xGradientEnd>      <!-- Green (#00FF00) -->
+    <xGradientEnd>-23296</xGradientEnd>         <!-- Orange (#FFA500) -->
 </RaftingContainerAppearance>
 ```
 No Visible Change
@@ -857,23 +831,15 @@ Default
 ```
 
 ```
-  <SeparatorAppearance>
+<SeparatorAppearance>
     <xDark>-65536</xDark>                   <!-- Red (#FF0000) -->
-    <xLight>-16711936</xLight>              <!-- Green (#00FF00) -->
-  </SeparatorAppearance>
+    <xLight>-23296</xLight>                 <!-- Orange (#FFA500) -->
+</SeparatorAppearance>
 ```
 
-Start - MainMenu - File
-![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/SeparatorAppearance/SeparatorAppearance-MainMenu-File-Start.png)
+Start Page
+![Image](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/ColourSchemes/Discovery/SeparatorAppearance/StartPage.png)
 
-Start - Toolbars
-![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/SeparatorAppearance/SeparatorAppearance-Toolbars-Start.png)
-
-App - Toolbar - Pads
-![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/SeparatorAppearance/SeparatorAppearance-Toolbars-Pads-App.png)
-
-Dct - Toolbars - Pads
-![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/SeparatorAppearance/SeparatorAppearance-Toolbars-Pads-Dct.png)
 
 ### \<StatusStripAppearance>
 Default
@@ -887,7 +853,7 @@ Default
 ```
 <StatusStripAppearance>
     <xGradientBegin>-65536</xGradientBegin>     <!-- Red (#FF0000) -->
-    <xGradientEnd>-16711936</xGradientEnd>      <!-- Green (#00FF00) -->
+    <xGradientEnd>-23296</xGradientEnd>         <!-- Orange (#FFA500) -->
 </StatusStripAppearance>
 ```
 No Visible Change
@@ -920,24 +886,18 @@ Default
     <xGradientMiddle>-460552</xGradientMiddle>
     <xPanelGradientBegin>-986896</xPanelGradientBegin>
     <xPanelGradientEnd>-197380</xPanelGradientEnd>
-  </ToolStripAppearance>
+</ToolStripAppearance>
 ```
 
-Start - Borders
-![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/ToolStripAppearance/ToolStripAppearance-Border-Start.png)
-
-App - Borders
-![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/ToolStripAppearance/ToolStripAppearance-Border-App.png)
-
-Dct - Borders
-![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/ToolStripAppearance/ToolStripAppearance-Border-Dct.png)
+Start Page
+![Image](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/ColourSchemes/Discovery/ToolStripAppearance/Border/StartPage.png)
 
 
 ```
 <ToolStripAppearance>
     <xBorder>-855310</xBorder>              
     <xContentPanelGradientBegin>-65536</xContentPanelGradientBegin>     <!-- Red (#FF0000) -->
-    <xContentPanelGradientEnd>-16711936</xContentPanelGradientEnd>      <!-- Green (#00FF00) -->
+    <xContentPanelGradientEnd>-23296</xContentPanelGradientEnd>         <!-- Orange (#FFA500) -->
     <xDropDownBackground>-131587</xDropDownBackground>
     <xGradientBegin>-197380</xGradientBegin>
     <xGradientEnd>-986896</xGradientEnd>
@@ -962,19 +922,9 @@ No Visible Change
     <xPanelGradientEnd>-197380</xPanelGradientEnd>
   </ToolStripAppearance>
 ```
-Start - MainMenu - File
-![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/ToolStripAppearance/ToolStripAppearance-DropDownBackground-MainMenu-File-Start.png)
 
-Start - MainMenu - Debug
-![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/ToolStripAppearance/ToolStripAppearance-DropDownBackground-MainMenu-Debug-Start.png)
-
-Start - MainMenu - Tools
-![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/ToolStripAppearance/ToolStripAppearance-DropDownBackground-MainMenu-Tools-Start.png)
-
-App - EditSchema
-![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/ToolStripAppearance/ToolStripAppearance-DropDownBackground-EditSchema-App.png)
-
-No Dct
+Start Page
+![Image](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/ColourSchemes/Discovery/ToolStripAppearance/DropDownBackground/StartPage.png)
 
 
 ```
@@ -983,22 +933,15 @@ No Dct
     <xContentPanelGradientBegin>-986896</xContentPanelGradientBegin>
     <xContentPanelGradientEnd>-197380</xContentPanelGradientEnd>
     <xDropDownBackground>-131587</xDropDownBackground>
-    <xGradientBegin>-65536</xGradientBegin>     <!-- Red (#FF0000) -->
-    <xGradientEnd>-16711936</xGradientEnd>      <!-- Green (#00FF00) -->
-    <xGradientMiddle>-256</xGradientMiddle>     <!-- Yellow (#FFFF00) -->
+    <xGradientBegin>-65536</xGradientBegin>                         <!-- Red (#FF0000) -->
+    <xGradientEnd>-256</xGradientEnd>                               <!-- Yellow (#FFFF00) -->
+    <xGradientMiddle>-23296</xGradientMiddle>                       <!-- Orange (#FFA500) -->
     <xPanelGradientBegin>-986896</xPanelGradientBegin>
     <xPanelGradientEnd>-197380</xPanelGradientEnd>
 </ToolStripAppearance>
 ```
-
-Start
-![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/ToolStripAppearance/ToolStripAppearance-Gradient-Start.png)
-
-App - Window Formatter
-![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/ToolStripAppearance/ToolStripAppearance-Gradient-WindowFormatter-App.png)
-
-Dct
-![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/ToolStripAppearance/ToolStripAppearance-Gradient-Dct.png)
+Start Page
+![Image](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/ColourSchemes/Discovery/ToolStripAppearance\Gradient/StartPage.png)
 
 
 ```
@@ -1011,7 +954,7 @@ Dct
     <xGradientEnd>-986896</xGradientEnd>
     <xGradientMiddle>-460552</xGradientMiddle>
     <xPanelGradientBegin>-65536</xPanelGradientBegin>       <!-- Red (#FF0000) -->
-    <xPanelGradientEnd>-16711936</xPanelGradientEnd>        <!-- Green (#00FF00) -->
+    <xPanelGradientEnd>-23296</xPanelGradientEnd>           <!-- Orange (#FFA500) -->
 </ToolStripAppearance>
 ```
 
