@@ -1,0 +1,164 @@
+<?xml version="1.0"?>
+<AppearanceProperties xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DockTabStripAppearance>
+    <xGradientBegin>-14540254</xGradientBegin> <!-- Dark background -->
+    <xGradientEnd>-11184811</xGradientEnd> <!-- Dark gradient end -->
+    <xTextColor>-1</xTextColor> <!-- White text for contrast -->
+  </DockTabStripAppearance>
+
+  <DockPadTitleAppearance>
+    <xActiveBackColorGradientBegin>-14540254</xActiveBackColorGradientBegin> <!-- Dark active background -->
+    <xActiveBackColorGradientEnd>-14540254</xActiveBackColorGradientEnd>
+    <xActiveTextColor>White</xActiveTextColor> <!-- Bright text -->
+    <xInactiveBackColor>-11184811</xInactiveBackColor> <!-- Dim inactive background -->
+    <xInactiveTextColor>DarkGray</xInactiveTextColor> <!-- Softer text -->
+  </DockPadTitleAppearance>
+
+  <DockTabAppearance>
+    <Active>
+      <xGradientBegin>-14540254</xGradientBegin>
+      <xGradientEnd>-14540254</xGradientEnd>
+      <xEdgeColor>-8421505</xEdgeColor> <!-- Medium gray edge -->
+      <xTextColor>-1</xTextColor>
+    </Active>
+    <Inactive>
+      <xGradientBegin>-11184811</xGradientBegin>
+      <xGradientEnd>-11184811</xGradientEnd>
+      <xTextColor>-1</xTextColor>
+      <xEdgeColor>-10066330</xEdgeColor>
+    </Inactive>
+    <PadActive>
+      <xGradientBegin>-14540254</xGradientBegin>
+      <xGradientEnd>-14540254</xGradientEnd>
+      <xEdgeColor>DarkGray</xEdgeColor>
+      <xTextColor>-1</xTextColor>
+    </PadActive>
+    <PadHide>
+      <xGradientBegin>-10066330</xGradientBegin>
+      <xGradientEnd>-10066330</xGradientEnd>
+      <xEdgeColor>-10066330</xEdgeColor>
+      <xTextColor>-1</xTextColor>
+    </PadHide>
+    <PadHideOver>
+      <xGradientBegin>-8421505</xGradientBegin>
+      <xGradientEnd>-8421505</xGradientEnd>
+      <xEdgeColor>-8421505</xEdgeColor>
+      <xTextColor>-1</xTextColor>
+    </PadHideOver>
+  </DockTabAppearance>
+
+  <ApplicationHeaderAppearance>
+    <xGradientBegin>-14540254</xGradientBegin>
+    <xGradientEnd>-14540254</xGradientEnd>
+  </ApplicationHeaderAppearance>
+
+  <StartPageAppearance>
+    <xGradientBegin>DimGray</xGradientBegin>
+    <xGradientEnd>-14540254</xGradientEnd>
+    <xSecondaryColor>-14540254</xSecondaryColor>
+    <xPrimaryColor>-14540254</xPrimaryColor>
+    <xButtonImageColor>-11184811</xButtonImageColor>
+    <xGridHeaderColor>-10066330</xGridHeaderColor>
+    <xGridBodyColor>-14540254</xGridBodyColor>
+    <xGridAltBodyColor>-14540254</xGridAltBodyColor>
+    <xGridLineColorr>-11184811</xGridLineColorr>
+    <xGridHoverColorr>-8421505</xGridHoverColorr>
+  </StartPageAppearance>
+
+  <ButtonAppearance>
+    <CheckedAppearance>
+      <xBackground>-10066330</xBackground>
+      <xBorderHighlight>-8421505</xBorderHighlight>
+      <xGradientBegin>-14540254</xGradientBegin>
+      <xGradientEnd>-14540254</xGradientEnd>
+      <xGradientMiddle>-14540254</xGradientMiddle>
+      <xHighlight>-10066330</xHighlight>
+      <xPressedBackground>-11184811</xPressedBackground>
+      <xSelectedBackground>-11184811</xSelectedBackground>
+    </CheckedAppearance>
+    <PressedAppearance>
+      <xBorder>-8421505</xBorder>
+      <xBorderHighlight>-8421505</xBorderHighlight>
+      <xGradientBegin>-11184811</xGradientBegin>
+      <xGradientEnd>-11184811</xGradientEnd>
+      <xGradientMiddle>-11184811</xGradientMiddle>
+      <xHighlight>-10066330</xHighlight>
+    </PressedAppearance>
+    <SelectedAppearance>
+      <xBorder>-8421505</xBorder>
+      <xBorderHighlight>-8421505</xBorderHighlight>
+      <xGradientBegin>-10066330</xGradientBegin>
+      <xGradientEnd>-10066330</xGradientEnd>
+      <xGradientMiddle>-10066330</xGradientMiddle>
+      <xHighlight>-11184811</xHighlight>
+    </SelectedAppearance>
+  </ButtonAppearance>
+
+  <GripAppearance>
+    <xDark>-10066330</xDark>
+    <xLight>-1</xLight>
+  </GripAppearance>
+
+  <ImageMarginAppearance>
+    <Normal>
+      <xGradientBegin>-11184811</xGradientBegin>
+      <xGradientEnd>-14540254</xGradientEnd>
+      <xGradientMiddle>-10066330</xGradientMiddle>
+    </Normal>
+    <Revealed>
+      <xGradientBegin>-8421505</xGradientBegin>
+      <xGradientEnd>-10066330</xGradientEnd>
+      <xGradientMiddle>-11184811</xGradientMiddle>
+    </Revealed>
+  </ImageMarginAppearance>
+
+  <MenuItemAppearance>
+    <xBorder>-8421505</xBorder>
+    <xPressedGradientBegin>-11184811</xPressedGradientBegin>
+    <xPressedGradientEnd>-14540254</xPressedGradientEnd>
+    <xPressedGradientMiddle>-10066330</xPressedGradientMiddle>
+    <xSelected>-10066330</xSelected>
+    <xSelectedGradientBegin>-10066330</xSelectedGradientBegin>
+    <xSelectedGradientEnd>-10066330</xSelectedGradientEnd>
+    <xTextColor>-1</xTextColor>
+  </MenuItemAppearance>
+
+  <MenuStripAppearance>
+    <xBorder>-8421505</xBorder>
+    <xGradientBegin>-14540254</xGradientBegin>
+    <xGradientEnd>-11184811</xGradientEnd>
+  </MenuStripAppearance>
+
+  <OverflowButtonAppearance>
+    <xGradientBegin>-11184811</xGradientBegin>
+    <xGradientEnd>-10066330</xGradientEnd>
+    <xGradientMiddle>-8421505</xGradientMiddle>
+  </OverflowButtonAppearance>
+
+  <RaftingContainerAppearance>
+    <xGradientBegin>-14540254</xGradientBegin>
+    <xGradientEnd>-11184811</xGradientEnd>
+  </RaftingContainerAppearance>
+
+  <SeparatorAppearance>
+    <xDark>-8421505</xDark>
+    <xLight>-1</xLight>
+  </SeparatorAppearance>
+
+  <StatusStripAppearance>
+    <xGradientBegin>-14540254</xGradientBegin>
+    <xGradientEnd>-11184811</xGradientEnd>
+  </StatusStripAppearance>
+
+  <ToolStripAppearance>
+    <xBorder>-10066330</xBorder>
+    <xContentPanelGradientBegin>-14540254</xContentPanelGradientBegin>
+    <xContentPanelGradientEnd>-11184811</xContentPanelGradientEnd>
+    <xDropDownBackground>-8421505</xDropDownBackground>
+    <xGradientBegin>-11184811</xGradientBegin>
+    <xGradientEnd>-14540254</xGradientEnd>
+    <xGradientMiddle>-10066330</xGradientMiddle>
+    <xPanelGradientBegin>-14540254</xPanelGradientBegin>
+    <xPanelGradientEnd>-11184811</xPanelGradientEnd>
+  </ToolStripAppearance>
+</AppearanceProperties>
