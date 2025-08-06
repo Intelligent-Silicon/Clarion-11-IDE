@@ -1,12 +1,18 @@
 # Clarion 11 IDE Fonts
 
-The Clarion 11 IDE has a section where the Fonts for the IDE can be set. The GUI doesnt provide any facility to change the text colour and there isnt an option in the ```ClarionProperties.xml``` file. Font colours for the IDE are set by changing the theme, discussed in [Clarion 11 IDE Colour Mode](Clarion_11_IDE_Colour_Mode.md) except the Text Editor.
+The Clarion 11 IDE has a section where the Fonts for the IDE can be set. The GUI doesnt provide any facility to change the text colour and there isnt an option in the ```ClarionProperties.xml``` file. Font colours for the IDE are set by changing the theme, discussed in [Clarion 11 IDE Colour Mode](Clarion_11_IDE_Colour_Mode.md).
 
 You can find the Font section for the IDE in ```Clarion 11 IDE:Tools, Options, IDE, Fonts```.
-The Font settings for the Text Editor are controlled in ```Clarion 11 IDE:Tools, Options, Text Editor, Highlighting, Scroll down to Clarion or Clarion Template```.
-You can only have one modified version for the Text Editor, which will be shown in the User Defined: list box. 
 
-The file location for the file is ```%APPDATA%\SoftVelocity\Clarion\11.0\modes``` which translates to ```C:\Users\Admin1\AppData\Roaming\SoftVelocity\Clarion\11.0\modes```.
+There is a UDL (User Defined Language) file which is the Syntax Highlight rules file, that allows users to define custom syntax highlighting rules for Clarion.
+
+The UDL syntax highlighting options can be found in ```Clarion 11 IDE:Tools, Options, Text Editor, Highlighting, in the BuiltIn listbox scroll down to Clarion or Clarion Template```.
+
+You can only have one modified UDL syntax highlighting file, which will be shown in the ```Text Editor, Hilighting``` ```User Defined:``` list box . 
+
+The file location for the modified UDL syntax highlighting file is ```%APPDATA%\SoftVelocity\Clarion\11.0\modes``` which translates to ```C:\Users\Admin1\AppData\Roaming\SoftVelocity\Clarion\11.0\modes```.
+
+The UDL Syntax Highlighting file settings are covered in more detail at [Clarion 11 IDE UDL Syntax Highlighting](Clarion_11_IDE_UDL_Syntax_Highlighting.md).
 
 The first dropdown list box lists the different parts of the IDE and below that the Font thats in use: 
 
