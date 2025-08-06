@@ -462,10 +462,10 @@ Default
 ```
 
 Start Page
-![Image](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/ColourSchemes/Discovery/ButtonAppearance/CheckedAppearance/StartPage.png)
+![Image](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/ColourSchemes/Discovery/ButtonAppearance/CheckedAppearance/Background/StartPage.png)
 
 Start Page
-![Image](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/ColourSchemes/Discovery/ButtonAppearance/CheckedAppearance/StartPage2.png)
+![Image](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/ColourSchemes/Discovery/ButtonAppearance/CheckedAppearance/Background/StartPage2.png)
 
 
 
@@ -474,17 +474,17 @@ Start Page
     <xBackground>-3874305</xBackground>
     <xBorderHighlight>-13395457</xBorderHighlight>
     <xGradientBegin>-65536</xGradientBegin>             <!-- Red (#FF0000) -->
-    <xGradientMiddle>-256</xGradientMiddle>             <!-- Yellow (#FFFF00) -->
-    <xGradientEnd>-16711936</xGradientEnd>              <!-- Green (#00FF00) -->
+    <xGradientMiddle>-23296</xGradientMiddle>           <!-- Orange (#FFA500) -->
+    <xGradientEnd>-256</xGradientEnd>                   <!-- Yellow (#FFFF00) -->
     <xHighlight>-3874305</xHighlight>
     <xPressedBackground>-6697729</xPressedBackground>
     <xSelectedBackground>-6697729</xSelectedBackground>
 </CheckedAppearance>
 ```
-App
-![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/ButtonAppearance/CheckedAppearance/ButtonAppearanceCheckedAppearance-Gradient-App.png)
-Dct
-![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/ButtonAppearance/CheckedAppearance/ButtonAppearanceCheckedAppearance-Gradient-Dct.png)
+
+Start Page
+![Image](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/ColourSchemes/Discovery/ButtonAppearance/CheckedAppearance/Gradient/StartPage.png)
+
 
 ```
 <CheckedAppearance>
@@ -499,7 +499,8 @@ Dct
 </CheckedAppearance>
 
 ```
-No visible changes
+Start Page
+![Image](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/ColourSchemes/Discovery/ButtonAppearance/CheckedAppearance/Highlight/StartPage.png)
 
 ### \<ButtonAppearance> \<PressedAppearance>
 Default
@@ -516,8 +517,8 @@ Default
 
 ```
 <PressedAppearance>
-    <xBorder>-65536</xBorder>                               <!-- Red highlight (#FF0000) -->
-    <xBorderHighlight>-256</xBorderHighlight>               <!-- Bright yellow (#FFFF00) -->
+    <xBorder>-65536</xBorder>                               <!-- Red (#FF0000) -->
+    <xBorderHighlight>-256</xBorderHighlight>               <!-- Yellow (#FFFF00) -->
     <xGradientBegin>-6697729</xGradientBegin>
     <xGradientEnd>-6697729</xGradientEnd>
     <xGradientMiddle>-6697729</xGradientMiddle>
@@ -530,13 +531,15 @@ No Visible Change
 <PressedAppearance>
     <xBorder>-13395457</xBorder>
     <xBorderHighlight>-13395457</xBorderHighlight>
-    <xGradientBegin>-65536</xGradientBegin>         <!-- Red (#FF0000) -->
-    <xGradientEnd>-16711936</xGradientEnd>          <!-- Green (#00FF00) -->
-    <xGradientMiddle>-256</xGradientMiddle>         <!-- Yellow (#FFFF00) -->
+    <xGradientBegin>-65536</xGradientBegin>             <!-- Red (#FF0000) -->
+    <xGradientEnd>-256</xGradientEnd>                   <!-- Yellow (#FFFF00) -->
+    <xGradientMiddle>-23296</xGradientMiddle>           <!-- Orange (#FFA500) -->
     <xHighlight>-6763521</xHighlight>
 </PressedAppearance>
 ```
-No Visible Change
+Start Page
+![Image](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/ColourSchemes/Discovery/ButtonAppearance/PressedAppearance/Gradient/StartPage.png)
+
 
 ```
 <PressedAppearance>
