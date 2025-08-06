@@ -162,6 +162,50 @@ Embed Source - Cascadia Code 10
 ![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/FontChanges/FontTest2/FontTest2-EmbedSource.png)
 
 
+### Font Test 3 - Tahoma, Cascadia Code
+
+```
+<Properties name="CoreProperties.ComponentsFont">
+    <Array name="ListOfFonts">
+        <Element value="ListControls|List Controls|Tahoma,9" />
+        <Element value="StartPage|Start Page|Tahoma,17" />
+        <Element value="TextEditor|Text Editor, Output Window (Proportional Font)|Cascadia Code,11" />
+    </Array>
+</Properties>
+<Properties name="AppGen Dialogs">
+    <DlgFontName value="Tahoma" />
+    <DlgFontSize value="9" />
+    <DlgFontStyle value="400" />
+</Properties>
+```
+
+StartPage - Tahoma 17
+![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/FontChanges/FontTest3/FontTest3-StartPage.png)
+
+Dictionary - Tahoma 9
+![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/FontChanges/FontTest3/FontTest3-Dct.png)
+
+AppGen - Tahoma 9
+![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/FontChanges/FontTest3/FontTest3-AppGen.png)
+
+Window Formatter - Tahoma 9 
+![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/FontChanges/FontTest3/FontTest3-WindowFormatter.png)
+
+Listbox Formatter - Tahoma 9 
+![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/FontChanges/FontTest3/FontTest3-ListboxFormatter.png)
+
+Embed Tree - Tahoma 9
+![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/FontChanges/FontTest3/FontTest3-Embeds.png)
+
+Embed Source - Cascadia Code 10
+![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/FontChanges/FontTest3/FontTest3-EmbedSource.png)
+
+
+
+
+
+
+
 
 
 StartPage
