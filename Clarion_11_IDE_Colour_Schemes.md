@@ -186,8 +186,8 @@ Default
   <xActiveBackColorGradientBegin>-65536</xActiveBackColorGradientBegin>     <!-- Dark red (#FF0000) -->
   <xActiveBackColorGradientEnd>-25856</xActiveBackColorGradientEnd>         <!-- Light red (#FF6A6A) -->
   <xActiveTextColor>-16711936</xActiveTextColor>                            <!-- Lime Green (#00FF00) -->
-  <xInactiveBackColor>-16744448</xInactiveBackColor>                       <!-- Green (#008000) -->
-  <xInactiveTextColor>-16776961</xInactiveTextColor>                        <!-- Blue (#0000FF) -->
+  <xInactiveBackColor>-16744448</xInactiveBackColor>                        <!-- Green (#008000) -->
+  <xInactiveTextColor>-256</xInactiveTextColor>                             <!-- Yellow (#FFFF00) -->
 </DockPadTitleAppearance>
 ```
 
