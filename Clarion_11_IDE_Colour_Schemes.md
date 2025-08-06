@@ -188,7 +188,7 @@ Default
   <xActiveBackColorGradientBegin>-65536</xActiveBackColorGradientBegin>     <!-- Dark red (#FF0000) -->
   <xActiveBackColorGradientEnd>-25856</xActiveBackColorGradientEnd>         <!-- Light red (#FF6A6A) -->
   <xActiveTextColor>-16711936</xActiveTextColor>                            <!-- Lime Green (#00FF00) -->
-  <xInactiveBackColor>--16744448</xInactiveBackColor>                       <!-- Green (#008000) -->
+  <xInactiveBackColor>-16744448</xInactiveBackColor>                       <!-- Green (#008000) -->
   <xInactiveTextColor>-16776961</xInactiveTextColor>                        <!-- Blue (#0000FF) -->
 </DockPadTitleAppearance>
 ```
@@ -203,42 +203,6 @@ App Gen
 ![Image](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/ColourSchemes/Discovery/DockPadTitleAppearance/AppGen.png)
 
 
-### \<DockTabAppearance>
-Default
-```
-<DockTabAppearance>
-    <Active>
-        <xGradientBegin>-986896</xGradientBegin>
-        <xGradientEnd>-986896</xGradientEnd>
-        <xEdgeColor>-8355712</xEdgeColor>
-        <xTextColor>-10066330</xTextColor>
-    </Active>
-    <Inactive>
-        <xGradientBegin>-986896</xGradientBegin>
-        <xGradientEnd>-986896</xGradientEnd>
-        <xTextColor>-10066330</xTextColor>
-        <xEdgeColor>-855310</xEdgeColor>
-    </Inactive>
-    <PadActive>
-        <xGradientBegin>-986896</xGradientBegin>
-        <xGradientEnd>-986896</xGradientEnd>
-        <xEdgeColor>Gray</xEdgeColor>
-        <xTextColor>-12566464</xTextColor>
-    </PadActive>
-    <PadHide>
-        <xGradientBegin>-3876102</xGradientBegin>
-        <xGradientEnd>-3876102</xGradientEnd>
-        <xEdgeColor>-3876102</xEdgeColor>
-        <xTextColor>-10066330</xTextColor>
-    </PadHide>
-    <PadHideOver>
-        <xGradientBegin>-6373643</xGradientBegin>
-        <xGradientEnd>-6373643</xGradientEnd>
-        <xEdgeColor>-6373643</xEdgeColor>
-        <xTextColor>-12566464</xTextColor>
-    </PadHideOver>
-</DockTabAppearance>
-  ```
 ### \<DockTabAppearance> \<Active>
 Default
 ```
