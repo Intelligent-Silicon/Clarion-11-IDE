@@ -14,6 +14,7 @@ The source code for SharpDevelop can be found and downloaded here:
 
 | Description | Version | Download Link |
 | --- | --- | --- |
+| SourceForge Links | All Versions | https://sourceforge.net/projects/sharpdevelop/files/ |
 | Sourceforge links| v2 General | https://sourceforge.net/projects/sharpdevelop/files/SharpDevelop%202.x/ |
 | | v2.0 | https://sourceforge.net/projects/sharpdevelop/files/SharpDevelop%202.x/2.0/ |
 | | v2.1 | https://sourceforge.net/projects/sharpdevelop/files/SharpDevelop%202.x/2.1/ |
