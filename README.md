@@ -26,7 +26,7 @@ This is work in progress.
 
 https://www.amazon.co.uk/Dissecting-C-Application-Inside-SharpDevelop/dp/1861008171
 
-Download link to free PDF link for people living in Africa!
+Download link to free PDF for people living in Africa!
 
 https://freecomputerbooks.com/Dissecting-a-C-Sharp-Application-Inside-SharpDevelop.html
 
