@@ -12,8 +12,6 @@ These settings affect the #Develop parts of the IDE, and not the main AppGen & D
 
 [\<dockpadtitleappearance>](Clarion_11_IDE_Colour_Mode.md#dockpadtitleappearance)
 
-[\<docktabappearance>](Clarion_11_IDE_Colour_Mode.md#docktabappearance)
-
 [\<docktabappearance-active>](Clarion_11_IDE_Colour_Mode.md#docktabappearance-active)
 
 [\<docktabappearance-inactive>](Clarion_11_IDE_Colour_Mode.md#docktabappearance-inactive)
@@ -224,7 +222,7 @@ Default
 ```
 
 Start Page
-![Image](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/ColourSchemes/Discovery/DockTabAppearance/Activee/StartPage.png)
+![Image](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/ColourSchemes/Discovery/DockTabAppearance/Active/StartPage.png)
 
 Dictionary
 ![Image](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/ColourSchemes/Discovery/DockTabAppearance/Active/Dct.png)
