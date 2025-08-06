@@ -16,7 +16,7 @@ This is work in progress.
 
 [Clarion 11 IDE Version Numbers](Clarion_11_IDE_Version_Numbers.md)
 
-[Clarion 11 IDE Schemes](Clarion_11_IDE_Schemes.md)
+[Clarion 11 IDE Schemes](Clarion_11_IDE_Schemes.md) -- Scrap
 
 [Windows Colour Schemes](Windows_Colour_Schemes.md)
 
@@ -24,7 +24,7 @@ This is work in progress.
 
 [Clarion 11 IDE Addins](Clarion_11_IDE_Addins.md)
 
-
+[Sharp Develop](SharpDevelop.md)
 
 https://www.amazon.co.uk/Dissecting-C-Application-Inside-SharpDevelop/dp/1861008171
 
