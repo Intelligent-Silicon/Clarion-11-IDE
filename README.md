@@ -2,7 +2,7 @@
 
 This is work in progress.
 
-[Clarion 11 IDE Colour Mode](Clarion_11_IDE_Colour_Mode.md)
+[Clarion 11 IDE Colour Schemes](Clarion_11_IDE_Colour_Schemes.md)
 
 [Clarion 11 IDE - Start Page Sections & Elements](Clarion_11_IDE_StartPage.md)
 
@@ -16,7 +16,7 @@ This is work in progress.
 
 [Clarion 11 IDE Schemes](Clarion_11_IDE_Schemes.md)
 
-[Clarion 11 IDE Colour Schemes](Clarion_11_IDE_Colour_Schemes.md)
+[Windows Colour Schemes](Windows_Colour_Schemes.md)
 
 
 

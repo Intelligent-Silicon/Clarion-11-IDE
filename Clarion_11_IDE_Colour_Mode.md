@@ -1,4 +1,4 @@
-# Clarion 11 IDE Colour Mode
+# Clarion 11 IDE Colour Schemes
 
 The Clarion 11 IDE permits different colour modes to be used. 
 
@@ -185,10 +185,10 @@ Default
 
 ```
 <DockPadTitleAppearance>
-  <xActiveBackColorGradientBegin>-65536</xActiveBackColorGradientBegin>     <!-- Deep Red -->
-  <xActiveBackColorGradientEnd>-25856</xActiveBackColorGradientEnd>         <!-- Bright Red -->
-  <xActiveTextColor>-256</xActiveTextColor>                                 <!-- Yellow Text -->
-  <xInactiveBackColor>-16711936</xInactiveBackColor>                        <!-- Green Background -->
+  <xActiveBackColorGradientBegin>-65536</xActiveBackColorGradientBegin>     <!-- Dark red (#FF0000) -->
+  <xActiveBackColorGradientEnd>-25856</xActiveBackColorGradientEnd>         <!-- Light red (#FF6A6A) -->
+  <xActiveTextColor>-16711936</xActiveTextColor>                            <!-- Lime Green (#00FF00) -->
+  <xInactiveBackColor>-16751616</xInactiveBackColor>                        <!-- Dark Green (#FF006400) -->
   <xInactiveTextColor>-16753920</xInactiveTextColor>                        <!-- Blue Text -->
 </DockPadTitleAppearance>
 ```
