@@ -432,38 +432,6 @@ Start
 Start
 ![DockTabStripAppearance-Start](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/StartPageAppearance/StartPageAppearance-Grid.png)
 
-### \<ButtonAppearance>
-Default
-```
-<ButtonAppearance>
-    <CheckedAppearance>
-        <xBackground>-3874305</xBackground>
-        <xBorderHighlight>-13395457</xBorderHighlight>
-        <xGradientBegin>0</xGradientBegin>
-        <xGradientEnd>0</xGradientEnd>
-        <xGradientMiddle>0</xGradientMiddle>
-        <xHighlight>-3874305</xHighlight>
-        <xPressedBackground>-6697729</xPressedBackground>
-        <xSelectedBackground>-6697729</xSelectedBackground>
-    </CheckedAppearance>
-    <PressedAppearance>
-        <xBorder>-13395457</xBorder>
-        <xBorderHighlight>-13395457</xBorderHighlight>
-        <xGradientBegin>-6697729</xGradientBegin>
-        <xGradientEnd>-6697729</xGradientEnd>
-        <xGradientMiddle>-6697729</xGradientMiddle>
-        <xHighlight>-6763521</xHighlight>
-    </PressedAppearance>
-    <SelectedAppearance>
-        <xBorder>-13395457</xBorder>
-        <xBorderHighlight>-13395457</xBorderHighlight>
-        <xGradientBegin>-4005633</xGradientBegin>
-        <xGradientEnd>-4005633</xGradientEnd>
-        <xGradientMiddle>-4005633</xGradientMiddle>
-        <xHighlight>-3874305</xHighlight>
-    </SelectedAppearance>
-</ButtonAppearance>
-```
 
 ### \<ButtonAppearance> \<CheckedAppearance>
 Default
@@ -749,7 +717,8 @@ Default
     <xSelectedGradientEnd>-4005633</xSelectedGradientEnd>
 </MenuItemAppearance>
 ```
-
+Ai Suggested Missing Element
+<xTextColor>-1</xTextColor>
 ```
 <MenuItemAppearance>
     <xBorder>-65536</xBorder>                               <!-- Red highlight (#FF0000) -->
@@ -892,7 +861,8 @@ Default
     <xGradientEnd>-197380</xGradientEnd>
 </MenuStripAppearance>
 ```
-
+Ai Suggested Missing Element
+<xTextColor>-1</xTextColor>
 ```
 <MenuStripAppearance>
     <xBorder>-65536</xBorder>                       <!-- Red (#FF0000) -->
@@ -932,6 +902,7 @@ The next two examples reverse the order of Red and Green. You can see some pads 
     <xBorder>-8355712</xBorder>
     <xGradientBegin>-65536</xGradientBegin>         <!-- Red (#FF0000) -->
     <xGradientEnd>-16711936</xGradientEnd>          <!-- Green (#00FF00) -->
+    <xTextColor>-1</xTextColor>
 </MenuStripAppearance>
 ```
 Start 

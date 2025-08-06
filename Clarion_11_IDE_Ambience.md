@@ -14,3 +14,13 @@ Clarion
 
 .Net 
 ![Image](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/Ambience/DotNet-Ambience.png)
+
+
+```%CWRoot%\bin\Addins\Clarion.addin```
+```
+<Path name = "/SharpDevelop/Workbench/Ambiences">
+    <Class id    = ".NET" class = "ICSharpCode.SharpDevelop.NetAmbience"/>
+</Path>
+```
+
+Look at both images, there is no difference, and the ```Clarion.addin``` would also suggest this.
