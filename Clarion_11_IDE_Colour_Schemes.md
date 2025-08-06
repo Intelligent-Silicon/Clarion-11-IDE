@@ -774,18 +774,13 @@ The next two examples reverse the order of Red and Green. You can see some pads 
 <MenuStripAppearance>
     <xBorder>-8355712</xBorder>
     <xGradientBegin>-65536</xGradientBegin>         <!-- Red (#FF0000) -->
-    <xGradientEnd>-16711936</xGradientEnd>          <!-- Green (#00FF00) -->
-    <xTextColor>-1</xTextColor>
+    <xGradientEnd>-23296</xGradientEnd>             <!-- Orange (#FFA500) -->
 </MenuStripAppearance>
 ```
-Start 
-![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/MenuStripAppearance/MenuStripAppearance-Gradient-Start.png)
 
-App
-![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/MenuStripAppearance/MenuStripAppearance-Gradient-App.png)
+Start Page
+![Image](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/ColourSchemes/Discovery/MenuStripAppearance/Gradient/StartPage.png)
 
-Dct
-![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/MenuStripAppearance/MenuStripAppearance-Gradient-Dct.png)
 
 ```
 <MenuStripAppearance>
