@@ -156,15 +156,19 @@ To show what the \<DockTabStripAppearance> section affects in the IDE, the eleme
 <DockTabStripAppearance>
   <xGradientBegin>-65536</xGradientBegin>      <!-- Dark red (#FF0000) -->
   <xGradientEnd>-25856</xGradientEnd>          <!-- Light red (#FF6A6A) -->
-  <xTextColor>-1</xTextColor>                  
+  <xTextColor>-16711936</xTextColor>           <!-- Lime Green (#00FF00) -->
 </DockTabStripAppearance>
 ```
 Start Page
-![DockTabStripAppearance-Start](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/DockTabStripAppearance/DockTabStripAppearance-Start.png)
+![Image](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/ColourSchemes/Discovery/DockTabStripAppearance/StartPage.png)
+
+Dictionary
+![Image](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/ColourSchemes/Discovery/DockTabStripAppearance/Dct.png)
+
 App Gen
-![DockTabStripAppearance-App](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/DockTabStripAppearance/DockTabStripAppearance-App.png)
-Dct
-![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/DockTabStripAppearance/DockTabStripAppearance-Dct.png)
+![Image](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/ColourSchemes/Discovery/DockTabStripAppearance/AppGen.png)
+
+
 
 ### \<DockPadTitleAppearance>
 
