@@ -4,53 +4,53 @@ The Clarion 11 IDE permits different colour modes to be used.
 
 These settings affect the #Develop parts of the IDE, and not the main AppGen & Dct part's of the IDE.
 
-[Toolbar Color Schemes](Clarion_11_IDE_Colour_Mode.md#toolbar-color-schemes)
+[Toolbar Color Schemes](Clarion_11_IDE_Colour_Schemes.md#toolbar-color-schemes)
 
-[ARGB numbers](Clarion_11_IDE_Colour_Mode.md#argb-numbers)
+[ARGB numbers](Clarion_11_IDE_Colour_Schemes.md#argb-numbers)
 
-[\<docktabstripappearance>](Clarion_11_IDE_Colour_Mode.md#docktabstripappearance)
+[\<docktabstripappearance>](Clarion_11_IDE_Colour_Schemes.md#docktabstripappearance)
 
-[\<dockpadtitleappearance>](Clarion_11_IDE_Colour_Mode.md#dockpadtitleappearance)
+[\<dockpadtitleappearance>](Clarion_11_IDE_Colour_Schemes.md#dockpadtitleappearance)
 
-[\<docktabappearance-active>](Clarion_11_IDE_Colour_Mode.md#docktabappearance-active)
+[\<docktabappearance-active>](Clarion_11_IDE_Colour_Schemes.md#docktabappearance-active)
 
-[\<docktabappearance-inactive>](Clarion_11_IDE_Colour_Mode.md#docktabappearance-inactive)
+[\<docktabappearance-inactive>](Clarion_11_IDE_Colour_Schemes.md#docktabappearance-inactive)
 
-[\<docktabappearance-padactive>](Clarion_11_IDE_Colour_Mode.md#docktabappearance-padactive)
+[\<docktabappearance-padactive>](Clarion_11_IDE_Colour_Schemes.md#docktabappearance-padactive)
 
-[\<docktabappearance-padhide>](Clarion_11_IDE_Colour_Mode.md#docktabappearance-padhide)
+[\<docktabappearance-padhide>](Clarion_11_IDE_Colour_Schemes.md#docktabappearance-padhide)
 
-[\<docktabappearance-padhideover>](Clarion_11_IDE_Colour_Mode.md#docktabappearance-padhideover)
+[\<docktabappearance-padhideover>](Clarion_11_IDE_Colour_Schemes.md#docktabappearance-padhideover)
 
-[\<applicationheaderappearance>](Clarion_11_IDE_Colour_Mode.md#applicationheaderappearance)
+[\<applicationheaderappearance>](Clarion_11_IDE_Colour_Schemes.md#applicationheaderappearance)
 
-[\<startpageappearance>](Clarion_11_IDE_Colour_Mode.md#startpageappearance)
+[\<startpageappearance>](Clarion_11_IDE_Colour_Schemes.md#startpageappearance)
 
-[\<buttonappearance>](Clarion_11_IDE_Colour_Mode.md#buttonappearance)
+[\<buttonappearance>](Clarion_11_IDE_Colour_Schemes.md#buttonappearance)
 
-[\<buttonappearance-checkedappearance>](Clarion_11_IDE_Colour_Mode.md#buttonappearance-checkedappearance)
+[\<buttonappearance-checkedappearance>](Clarion_11_IDE_Colour_Schemes.md#buttonappearance-checkedappearance)
 
-[\<buttonappearance-pressedappearance>](Clarion_11_IDE_Colour_Mode.md#buttonappearance-pressedappearance)
+[\<buttonappearance-pressedappearance>](Clarion_11_IDE_Colour_Schemes.md#buttonappearance-pressedappearance)
 
-[\<buttonappearance-selectedappearance>](Clarion_11_IDE_Colour_Mode.md#buttonappearance-selectedappearance)
+[\<buttonappearance-selectedappearance>](Clarion_11_IDE_Colour_Schemes.md#buttonappearance-selectedappearance)
 
-[\<gripappearance>](Clarion_11_IDE_Colour_Mode.md#gripappearance)
+[\<gripappearance>](Clarion_11_IDE_Colour_Schemes.md#gripappearance)
 
-[\<imagemarginappearance>](Clarion_11_IDE_Colour_Mode.md#imagemarginappearance)
+[\<imagemarginappearance>](Clarion_11_IDE_Colour_Schemes.md#imagemarginappearance)
 
-[\<menuitemappearance>](Clarion_11_IDE_Colour_Mode.md#menuitemappearance)
+[\<menuitemappearance>](Clarion_11_IDE_Colour_Schemes.md#menuitemappearance)
 
-[\<menustripappearance>](Clarion_11_IDE_Colour_Mode.md#menustripappearance)
+[\<menustripappearance>](Clarion_11_IDE_Colour_Schemes.md#menustripappearance)
 
-[\<overflowbuttonappearance>](Clarion_11_IDE_Colour_Mode.md#overflowbuttonappearance)
+[\<overflowbuttonappearance>](Clarion_11_IDE_Colour_Schemes.md#overflowbuttonappearance)
 
-[\<raftingcontainerappearance>](Clarion_11_IDE_Colour_Mode.md#raftingcontainerappearance)
+[\<raftingcontainerappearance>](Clarion_11_IDE_Colour_Schemes.md#raftingcontainerappearance)
 
-[\<separatorappearance>](Clarion_11_IDE_Colour_Mode.md#separatorappearance)
+[\<separatorappearance>](Clarion_11_IDE_Colour_Schemes.md#separatorappearance)
 
-[\<statusstripappearance>](Clarion_11_IDE_Colour_Mode.md#statusstripappearance)
+[\<statusstripappearance>](Clarion_11_IDE_Colour_Schemes.md#statusstripappearance)
 
-[\<toolstripappearance>](Clarion_11_IDE_Colour_Mode.md#toolstripappearance)
+[\<toolstripappearance>](Clarion_11_IDE_Colour_Schemes.md#toolstripappearance)
 
 
 
