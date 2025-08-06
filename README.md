@@ -4,9 +4,7 @@ This is work in progress.
 
 [Clarion 11 IDE Colour Mode](Clarion_11_IDE_Colour_Mode.md)
 
-
 [Clarion 11 IDE - Start Page Sections & Elements](Clarion_11_IDE_StartPage.md)
-
 
 [Clarion 11 IDE Tab Style](Clarion_11_IDE_TabStyle.md)
 
@@ -15,6 +13,8 @@ This is work in progress.
 [Clarion 11 IDE Fonts](Clarion_11_IDE_Fonts.md)
 
 [Clarion 11 IDE Version Numbers](Clarion_11_IDE_Version_Numbers.md)
+
+[Clarion 11 IDE Schemes](Clarion_11_IDE_Schemes.md)
 
 
 
