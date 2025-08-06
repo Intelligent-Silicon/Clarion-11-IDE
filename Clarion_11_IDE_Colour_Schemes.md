@@ -310,7 +310,7 @@ Default
 </PadHide>
 ```
 Start Page
-![Image](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/ColourSchemes/Discovery/DockTabAppearance/PadHidee/StartPage.png)
+![Image](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/ColourSchemes/Discovery/DockTabAppearance/PadHide/StartPage.png)
 
 Dictionary
 ![Image](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/ColourSchemes/Discovery/DockTabAppearance/PadHide/Dct.png)
