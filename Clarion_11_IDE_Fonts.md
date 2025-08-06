@@ -73,6 +73,7 @@ Default Dct: Invoice.dct
 
 Screenshots: StartPage, Dictionary, AppGen, Window Formatter, Listbox Formatter, Embed Tree, Embed Source
 
+To compare the different fonts easily, open the two windows you want to compare in their own browser window and then simply alt tab between the two. It will become apparant quickly what fonts and sizes work best on your monitor. 
 
 ### Font Test 1 - Default Fonts 
 
@@ -216,7 +217,7 @@ Embed Source - Cascadia Code 10
 
 ### Conclusion
 
-Comparing each image of different parts of the IDE, in their own seperate browser window in order to Alt-Tab between the two, in terms of ledgability, ```Verdana``` seems to be a good font for the general IDE, but ```Courier New``` stills seems to have the edge for the text editor when using the Default Colour Scheme.
+Comparing each image of different parts of the IDE, in their own seperate browser window in order to Alt-Tab between the two, in terms of legibility, ```Verdana``` seems to be a good font for the general IDE, but ```Courier New``` stills seems to have the edge for the text editor when using the Default Colour Scheme.
 
 A "Dark Mode" colour scheme could still alter all of that.
 
