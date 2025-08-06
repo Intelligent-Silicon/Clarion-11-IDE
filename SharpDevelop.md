@@ -20,8 +20,10 @@ The source code for SharpDevelop can be found and downloaded here:
 | | v2.1 | https://sourceforge.net/projects/sharpdevelop/files/SharpDevelop%202.x/2.1/ |
 | | v2.2 | https://sourceforge.net/projects/sharpdevelop/files/SharpDevelop%202.x/2.2/ |
 | | v2.2.1 | https://sourceforge.net/projects/sharpdevelop/files/SharpDevelop%202.x/2.2.1/ |
+| Wayback Machine | v2.1 | https://web.archive.org/web/20061006005745/http://build.sharpdevelop.net:80/BuildArtefacts/ | 
 | Wayback Machine Archive | All Versions | https://web.archive.org/web/20190927212213/http://www.icsharpcode.net/OpenSource/SD/Download/Default.aspx |
 | Github | All Versions | https://github.com/icsharpcode/SharpDevelop/releases |
+
 
 
 The Clarion IDE uses the SharpDevelop v2.1. This version of SharpDevelop is based on WinForms so inspectors like Spy++ will help out at identifing different parts of the IDE.
