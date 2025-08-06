@@ -200,6 +200,7 @@ Dictionary
 App Gen
 ![Image](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/ColourSchemes/Discovery/DockPadTitleAppearance/AppGen.png)
 
+### \<DockTabAppearance>
 
 ### \<DockTabAppearance> \<Active>
 Default
