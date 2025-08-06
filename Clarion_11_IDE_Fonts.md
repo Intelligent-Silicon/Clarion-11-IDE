@@ -1,8 +1,12 @@
 # Clarion 11 IDE Fonts
 
-The Clarion 11 IDE has a section where the Fonts for the IDE can be set. The GUI doesnt provide any facility to change the text colour and there isnt an option in the ```ClarionProperties.xml``` file. Font colours are set by changing the theme, discussed in [Clarion 11 IDE Colour Mode](Clarion_11_IDE_Colour_Mode.md).
+The Clarion 11 IDE has a section where the Fonts for the IDE can be set. The GUI doesnt provide any facility to change the text colour and there isnt an option in the ```ClarionProperties.xml``` file. Font colours for the IDE are set by changing the theme, discussed in [Clarion 11 IDE Colour Mode](Clarion_11_IDE_Colour_Mode.md) except the Text Editor.
 
-You can find this Font section in ```Clarion 11 IDE:Tools, Options, IDE, Fonts```.
+You can find the Font section for the IDE in ```Clarion 11 IDE:Tools, Options, IDE, Fonts```.
+The Font settings for the Text Editor are controlled in ```Clarion 11 IDE:Tools, Options, Text Editor, Highlighting, Scroll down to Clarion or Clarion Template```.
+You can only have one modified version for the Text Editor, which will be shown in the User Defined: list box. 
+
+The file location for the file is ```%APPDATA%\SoftVelocity\Clarion\11.0\modes``` which translates to ```C:\Users\Admin1\AppData\Roaming\SoftVelocity\Clarion\11.0\modes```.
 
 The first dropdown list box lists the different parts of the IDE and below that the Font thats in use: 
 
