@@ -150,7 +150,7 @@ https://learn.microsoft.com/en-us/dotnet/api/system.drawing.color?view=net-9.0
 
 https://learn.microsoft.com/en-us/dotnet/api/system.drawing.systemcolors?view=net-9.0
 
-| .NET Name               | Description                                                                 | ARGB (A,R,G,B)       | Integer Value  | Hex Code   |
+| .NET/Win32 Name               | Description                                                                 | ARGB (A,R,G,B)       | Integer Value  | Hex Code   |
 |------------------------|-----------------------------------------------------------------------------|----------------------|----------------|------------|
 | ActiveBorder           | Color of the active window's border.                                       | (255,180,180,180)    | -7829364       | #B4B4B4    |
 | ActiveCaption          | Background of the active window's title bar.                               | (255,153,180,209)    | -10984591      | #99B4D1    |
