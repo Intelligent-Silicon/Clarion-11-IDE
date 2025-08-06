@@ -188,16 +188,20 @@ Default
   <xActiveBackColorGradientBegin>-65536</xActiveBackColorGradientBegin>     <!-- Dark red (#FF0000) -->
   <xActiveBackColorGradientEnd>-25856</xActiveBackColorGradientEnd>         <!-- Light red (#FF6A6A) -->
   <xActiveTextColor>-16711936</xActiveTextColor>                            <!-- Lime Green (#00FF00) -->
-  <xInactiveBackColor>-16751616</xInactiveBackColor>                        <!-- Dark Green (#FF006400) -->
-  <xInactiveTextColor>-16753920</xInactiveTextColor>                        <!-- Blue Text -->
+  <xInactiveBackColor>--16744448</xInactiveBackColor>                       <!-- Green (#008000) -->
+  <xInactiveTextColor>-16776961</xInactiveTextColor>                        <!-- Blue (#0000FF) -->
 </DockPadTitleAppearance>
 ```
+
 Start Page
-![DockTabStripAppearance-Start](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/DockPadTitleAppearance/DockPadTitleAppearance-Start.png)
+![Image](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/ColourSchemes/Discovery/DockPadTitleAppearance/StartPage.png)
+
+Dictionary
+![Image](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/ColourSchemes/Discovery/DockPadTitleAppearance/Dct.png)
+
 App Gen
-![DockTabStripAppearance-App](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/DockPadTitleAppearance/DockPadTitleAppearance-App.png)
-Dct
-![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/DockPadTitleAppearance/DockPadTitleAppearance-Dct.png)
+![Image](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/ColourSchemes/Discovery/DockPadTitleAppearance/AppGen.png)
+
 
 ### \<DockTabAppearance>
 Default
@@ -254,12 +258,16 @@ Default
     <xTextColor>-256</xTextColor>                 <!-- Bright Yellow (#FFFF00) -->
 </Active>
 ```
+
 Start Page
-![DockTabStripAppearance-Start](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/DockTabAppearance/Active/DockTabAppearanceActive-Start.png)
+![Image](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/ColourSchemes/Discovery/DockTabAppearance/Activee/StartPage.png)
+
+Dictionary
+![Image](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/ColourSchemes/Discovery/DockTabAppearance/Active/Dct.png)
+
 App Gen
-![DockTabStripAppearance-App](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/DockTabAppearance/Active/DockTabAppearanceActive-App.png)
-Dct
-![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/DockTabAppearance/Active/DockTabAppearanceActive-Dct.png)
+![Image](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/ColourSchemes/Discovery/DockTabAppearance/Active/AppGen.png)
+
 
 ### \<DockTabAppearance> \<Inactive>
 Default
