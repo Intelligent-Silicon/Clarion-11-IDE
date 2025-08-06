@@ -651,11 +651,16 @@ Default
 ```
     <Normal>
         <xGradientBegin>-65536</xGradientBegin>         <!-- Red (#FF0000) -->
-        <xGradientEnd>-16711936</xGradientEnd>          <!-- Green (#00FF00) -->
-        <xGradientMiddle>-256</xGradientMiddle>         <!-- Yellow (#FFFF00) -->
+        <xGradientEnd>-256</xGradientEnd>               <!-- Yellow (#FFFF00) -->
+        <xGradientMiddle>-23296</xGradientMiddle>       <!-- Orange (#FFA500) -->
     </Normal>
-```
-No Visible Change
+```  
+    
+Start Page
+![Image](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/ColourSchemes/Discovery/ImageMarginAppearance/Normal/StartPage.png)
+
+Start Page
+![Image](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/ColourSchemes/Discovery/ImageMarginAppearance/Normal/StartPage2.png)
 
 ```
     <Revealed>
