@@ -729,33 +729,9 @@ Start Page
     <xSelectedGradientEnd>-4005633</xSelectedGradientEnd>
 </MenuItemAppearance>
 ```
-Start - File - Recent
-![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/MenuItemAppearance/MenuItemAppearance-Selected-File-Recent-Start.png)
 
-Start - View
-![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/MenuItemAppearance/MenuItemAppearance-Selected-View-Start.png)
-
-Start - View - Tools
-![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/MenuItemAppearance/MenuItemAppearance-Selected-View-Tools-Start.png)
-
-Start - Build
-![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/MenuItemAppearance/MenuItemAppearance-Selected-Build-Start.png)
-
-Start - Tools
-![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/MenuItemAppearance/MenuItemAppearance-Selected-Tools-Start.png)
-
-App - Edit Globals
-![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/MenuItemAppearance/MenuItemAppearance-Selected-EditGlobals-App.png)
-
-Dct - ExportDct
-![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/MenuItemAppearance/MenuItemAppearance-Selected-ExportDct-Dct.png)
-
-Dct - ExportDct
-![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/MenuItemAppearance/MenuItemAppearance-Selected-ExportDct-Dct.png)
-
-Dct - Window
-![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/MenuItemAppearance/MenuItemAppearance-Selected-Window-Dct.png)
-
+Start Page
+![Image](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/ColourSchemes/Discovery/MenuItemAppearance/Selected/StartPage.png)
 
 ```
 <MenuItemAppearance>
