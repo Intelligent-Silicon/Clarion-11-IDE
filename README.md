@@ -1,7 +1,5 @@
 # Clarion 11 IDE
 
-This is work in progress.
-
 [Clarion 11 IDE Colour Schemes](Clarion_11_IDE_Colour_Schemes.md)
 
 [Clarion 11 IDE - Start Page Sections & Elements](Clarion_11_IDE_StartPage.md)
