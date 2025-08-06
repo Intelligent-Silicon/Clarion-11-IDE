@@ -568,54 +568,38 @@ Default
 
 ```
 <SelectedAppearance>
-    <xBorder>-65536</xBorder>                               <!-- Red highlight (#FF0000) -->
-    <xBorderHighlight>-256</xBorderHighlight>               <!-- Bright yellow (#FFFF00) -->
+    <xBorder>-65536</xBorder>                               <!-- Red (#FF0000) -->
+    <xBorderHighlight>-256</xBorderHighlight>               <!-- Yellow (#FFFF00) -->
     <xGradientBegin>-4005633</xGradientBegin>
     <xGradientEnd>-4005633</xGradientEnd>
     <xGradientMiddle>-4005633</xGradientMiddle>
     <xHighlight>-3874305</xHighlight>
 </SelectedAppearance>
 ```
-App - Data Pad
-![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/ButtonAppearance/SelectedAppearance/ButtonAppearanceSelectedAppearance-DataPad-Border-App.png)
-App - Main Toolbar
-![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/ButtonAppearance/SelectedAppearance/ButtonAppearanceSelectedAppearance-MainToolbar-Border-App.png)
-App - Solution Explorer
-![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/ButtonAppearance/SelectedAppearance/ButtonAppearanceSelectedAppearance-SolutionExplorer-Border-App.png)
-Dct - Main Toolbar
-![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/ButtonAppearance/SelectedAppearance/ButtonAppearanceSelectedAppearance-MainToolbar-Border-Dct.png)
+
+Start Page
+![Image](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/ColourSchemes/Discovery/ButtonAppearance/SelectedAppearance/Border/StartPage.png)
+
+Start Page
+![Image](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/ColourSchemes/Discovery/ButtonAppearance/SelectedAppearance/Border/StartPage2.png)
+
 
 ```
 <SelectedAppearance>
     <xBorder>-13395457</xBorder>
     <xBorderHighlight>-13395457</xBorderHighlight>
-    <xGradientBegin>-65536</xGradientBegin>         <!-- Red (#FF0000) -->
-    <xGradientEnd>-16711936</xGradientEnd>          <!-- Green (#00FF00) -->
-    <xGradientMiddle>-256</xGradientMiddle>         <!-- Yellow (#FFFF00) -->
+    <xGradientBegin>-65536</xGradientBegin>             <!-- Red (#FF0000) -->
+    <xGradientEnd>-256</xGradientEnd>                   <!-- Yellow (#FFFF00) -->
+    <xGradientMiddle>-23296</xGradientMiddle>           <!-- Orange (#FFA500) -->
     <xHighlight>-3874305</xHighlight>
 </SelectedAppearance>
 ```
 
-Start - Main Toolbar - Just Open File button
-![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/ButtonAppearance/SelectedAppearance/ButtonAppearanceSelectedAppearance-MainToolbar-Gradient-Start.png)
+Start Page
+![Image](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/ColourSchemes/Discovery/ButtonAppearance/SelectedAppearance/Gradient/StartPage.png)
 
-App - DataPad - Add, Change, Delete, Expand All Nodes, Contract All Nodes buttons
-![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/ButtonAppearance/SelectedAppearance/ButtonAppearanceSelectedAppearance-DataPad-Gradient-App.png)
-
-App - Main Toolbar - Open File, Enable Code Completion, Comment Region, Uncomment Region Buttons
-![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/ButtonAppearance/SelectedAppearance/ButtonAppearanceSelectedAppearance-MainToolbar-Gradient-App.png)
-
-App - Solution Explorer - Just Show All Files button
-![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/ButtonAppearance/SelectedAppearance/ButtonAppearanceSelectedAppearance-SolutionExplorer-Gradient-App.png)
-
-Dct - Main Toolbar - Just Open File button
-![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/ButtonAppearance/SelectedAppearance/ButtonAppearanceSelectedAppearance-MainToolbar-Gradient-Dct.png)
-
-Dct - Dct Toolbar - Close, Browse Table, Dictionary Properties, Users, Open Diagram, Import/Export, Search in the Data Dictionary buttons
-![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/ButtonAppearance/SelectedAppearance/ButtonAppearanceSelectedAppearance-DctToolbar-Gradient-Dct.png)
-
-Dct - Table Toolbar - Close, Expand All Nodes, Contract All Nodes buttons
-![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/ButtonAppearance/SelectedAppearance/ButtonAppearanceSelectedAppearance-Table-Gradient-Dct.png)
+Start Page
+![Image](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/ColourSchemes/Discovery/ButtonAppearance/SelectedAppearance/Gradient/StartPage2.png)
 
 ```
 <SelectedAppearance>
