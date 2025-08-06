@@ -217,7 +217,7 @@ Embed Source - Cascadia Code 10
 
 ### Conclusion
 
-Comparing each image of different parts of the IDE, in their own seperate browser window in order to Alt-Tab between the two, in terms of legibility, ```Verdana``` seems to be a good font for the general IDE, but ```Courier New``` stills seems to have the edge for the text editor when using the Default Colour Scheme.
+Comparing each image of different parts of the IDE, in their own seperate browser window in order to Alt-Tab between the two, in terms of legibility, ```Verdana``` seems to be a good font for the general IDE, but ```Courier New``` stills seems to have the edge for the text editor (embed editor) when using the Default Colour Scheme.
 
 A "Dark Mode" colour scheme could still alter all of that.
 
