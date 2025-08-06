@@ -73,7 +73,7 @@ Default Dct: Invoice.dct
 
 Screenshots: StartPage, Dictionary, AppGen, Window Formatter, Listbox Formatter, Embed Tree, Embed Source
 
-To compare the different fonts easily, open the two windows you want to compare in their own browser window and then simply alt tab between the two. It will become apparant quickly what fonts and sizes work best on your monitor. 
+To compare the different fonts easily, open the two identical windows with different fonts you want to compare in their own browser window and then simply alt tab between the two. It will become apparant quickly what fonts and sizes work best on your monitor. 
 
 ### Font Test 1 - Default Fonts 
 
