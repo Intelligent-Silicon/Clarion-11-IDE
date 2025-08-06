@@ -306,15 +306,17 @@ Default
   <xGradientBegin>-65536</xGradientBegin>       <!-- Deep Red (#FF0000) -->
   <xGradientEnd>-25856</xGradientEnd>           <!-- Light Red (#FF6A6A) -->
   <xEdgeColor>-16711936</xEdgeColor>            <!-- Lime Green (#00FF00) -->
-  <xTextColor>-256</xTextColor>                 <!-- Bright Yellow (#FFFF00) -->
+  <xTextColor>-256</xTextColor>                 <!-- Yellow (#FFFF00) -->
 </PadHide>
 ```
 Start Page
-![DockTabStripAppearance-Start](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/DockTabAppearance/PadHide/DockTabAppearancePadHide-Start.png)
+![Image](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/ColourSchemes/Discovery/DockTabAppearance/PadHidee/StartPage.png)
+
+Dictionary
+![Image](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/ColourSchemes/Discovery/DockTabAppearance/PadHide/Dct.png)
+
 App Gen
-![DockTabStripAppearance-App](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/DockTabAppearance/PadHide/DockTabAppearancePadHide-App.png)
-Dct
-![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/DockTabAppearance/PadHide/DockTabAppearancePadHide-Dct.png)
+![Image](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/ColourSchemes/Discovery/DockTabAppearance/PadHide/AppGen.png)
 
 ### \<DockTabAppearance> \<PadHideOver>
 Default
