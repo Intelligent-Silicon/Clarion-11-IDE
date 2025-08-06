@@ -23,4 +23,4 @@ Clarion
 </Path>
 ```
 
-Look at both images, there is no difference, and the ```Clarion.addin``` would also suggest this.
+Looking at both images, there appears to be no difference, and the ```Clarion.addin``` would also suggest this.
