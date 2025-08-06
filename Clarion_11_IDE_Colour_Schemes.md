@@ -461,7 +461,13 @@ Default
 </CheckedAppearance>
 ```
 
-No Visible Changes
+Start Page
+![Image](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/ColourSchemes/Discovery/ButtonAppearance/CheckedAppearance/StartPage.png)
+
+Start Page
+![Image](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/ColourSchemes/Discovery/ButtonAppearance/CheckedAppearance/StartPage2.png)
+
+
 
 ```
 <CheckedAppearance>
