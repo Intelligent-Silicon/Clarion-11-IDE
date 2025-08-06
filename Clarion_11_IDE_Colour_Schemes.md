@@ -250,12 +250,16 @@ Default
     <xEdgeColor>-16711936</xEdgeColor>            <!-- Lime Green (#00FF00) -->   
 </Inactive>
 ```
+
 Start Page
-![DockTabStripAppearance-Start](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/DockTabAppearance/Inactive/DockTabAppearanceInactive-Start.png)
+![Image](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/ColourSchemes/Discovery/DockTabAppearance/Inactive/StartPage.png)
+
+Dictionary
+![Image](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/ColourSchemes/Discovery/DockTabAppearance/InActive/Dct.png)
+
 App Gen
-![DockTabStripAppearance-App](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/DockTabAppearance/Inactive/DockTabAppearanceInactive-App.png)
-Dct
-![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/DockTabAppearance/Inactive/DockTabAppearanceInactive-Dct.png)
+![Image](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/ColourSchemes/Discovery/DockTabAppearance/Inactive/AppGen.png)
+
 
 ### \<DockTabAppearance> \<PadActive>
 Default
