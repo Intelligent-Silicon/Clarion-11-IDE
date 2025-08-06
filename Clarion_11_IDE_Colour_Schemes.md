@@ -394,8 +394,8 @@ Default
     <xGridHoverColorr>-4599318</xGridHoverColorr>
 </StartPageAppearance>
 ```
-Start
-![DockTabStripAppearance-Start](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/StartPageAppearance/StartPageAppearance-GradientBeginEnd.png)
+Start Page
+![Image](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/ColourSchemes/Discovery/StartPageAppearance/Gradient/StartPage.png)
 
 ```
 <StartPageAppearance>
@@ -412,8 +412,8 @@ Start
 </StartPageAppearance>
 ```
 
-Start
-![DockTabStripAppearance-Start](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/StartPageAppearance/StartPageAppearance-PrimarySecondary.png)
+Start Page
+![Image](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/ColourSchemes/Discovery/StartPageAppearance/PrimarySecondary/StartPage.png)
 
 ```
 <StartPageAppearance>
@@ -429,8 +429,8 @@ Start
     <xGridHoverColorr>-8388480</xGridHoverColorr>       <!-- Purple (#800080) -->
 </StartPageAppearance>
 ```
-Start
-![DockTabStripAppearance-Start](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/StartPageAppearance/StartPageAppearance-Grid.png)
+Start Page
+![Image](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/ColourSchemes/Discovery/StartPageAppearance/Grid/StartPage.png)
 
 
 ### \<ButtonAppearance> \<CheckedAppearance>
