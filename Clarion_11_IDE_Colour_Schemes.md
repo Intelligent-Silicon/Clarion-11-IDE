@@ -757,8 +757,7 @@ Default
     <xGradientEnd>-197380</xGradientEnd>
 </MenuStripAppearance>
 ```
-Ai Suggested Missing Element
-<xTextColor>-1</xTextColor>
+
 ```
 <MenuStripAppearance>
     <xBorder>-65536</xBorder>                       <!-- Red (#FF0000) -->
@@ -766,30 +765,8 @@ Ai Suggested Missing Element
     <xGradientEnd>-197380</xGradientEnd>
 </MenuStripAppearance>
 ```
-
-Start - MainMenu - FileStart
-![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/MenuStripAppearance/MenuStripAppearance-Border-MainMenu-File-Start.png)
-
-Start - MainMenu - Build
-![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/MenuStripAppearance/MenuStripAppearance-Border-MainMenu-Build-Start.png)
-
-Start - Toolbar - OpenFile
-![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/MenuStripAppearance/MenuStripAppearance-Border-Toolbar-OpenFile-Start.png)
-
-Start - SolutionExplorer
-![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/MenuStripAppearance/MenuStripAppearance-Border-SolutionExplorer-Start.png)
-
-Dct - DataPad - RightMouseClickMenu
-![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/MenuStripAppearance/MenuStripAppearance-Border-DataPad-RightMouseMenu-Dct.png)
-
-Dct - Import/Export
-![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/MenuStripAppearance/MenuStripAppearance-Border-ImportExport-Dct.png)
-
-Dct - DataPad
-![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/MenuStripAppearance/MenuStripAppearance-Border-DataPad-Dct.png)
-
-Dct - Properties
-![DockTabStripAppearance-Dct](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/MenuStripAppearance/MenuStripAppearance-Border-Properties-Dct.png)
+Start Page
+![Image](https://github.com/Intelligent-Silicon/Clarion-11-IDE/blob/main/ColourSchemes/Discovery/MenuStripAppearance/Border/StartPage.png)
 
 
 The next two examples reverse the order of Red and Green. You can see some pads have their border coloured. This appears to be a bug in the #Develop IDE.
