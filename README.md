@@ -16,7 +16,7 @@ This is work in progress.
 
 [Clarion 11 IDE Schemes](Clarion_11_IDE_Schemes.md)
 
-[Clarion 11 IDE Schemes](Clarion_11_IDE_Colour_Schemes.md)
+[Clarion 11 IDE Colour Schemes](Clarion_11_IDE_Colour_Schemes.md)
 
 
 
