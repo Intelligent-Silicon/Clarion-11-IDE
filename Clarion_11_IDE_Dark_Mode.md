@@ -41,7 +41,7 @@ Firstly there is the [WebAim Contrast Check](https://webaim.org/resources/contra
 
 
 | WCAG Version | Level | Output Type | Ratio 
-| --- | --- | --- | 
+| --- | --- | --- | --- | 
 | 2.0 | AA | Normal Text to Background | 4.5:1 |
 | 2.1 | AAA | Normal Text to Background | 7:1 | 
 | 2.0 | AA | Large Text to Background | 3:1 |
