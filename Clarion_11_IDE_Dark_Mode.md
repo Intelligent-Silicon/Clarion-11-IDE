@@ -1,6 +1,6 @@
 # Clarion 11 IDE DarkMode
 
-This colour scheme is what is known as a Dark Mode colour scheme. Dark modes are designed to save on battery life when used on laptops, provide a high contrast look to programs which can help in bright light situations and generally helps to provide less eye strain and damage both short and long term when using a program for long periods of time.
+This colour scheme is what is known as a Dark Mode colour scheme. Dark modes are designed to save on battery life when used on laptops, provide a high contrast look to programs which can help in bright & poor light situations and generally helps to provide less eye strain and damage both short and long term when using a program for long periods of time.
 
 
 # Colour Standards
@@ -9,6 +9,7 @@ Choosing colours should try to meet WCAG (Web Content Accessibility Guidelines) 
 
 WCAG is built around four foundational principles:
 | Principle | Meaning | 
+| --- | --- |
 | Perceivable | Content must be presented in ways users can perceive (e.g. alt text for images) | 
 | Operable | Users must be able to interact with the interface (e.g. keyboard navigation) | 
 | Understandable | Content and UI must be easy to understand and use (e.g. clear instructions) | 
