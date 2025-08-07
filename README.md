@@ -22,4 +22,6 @@
 
 [Sharp Develop](SharpDevelop.md)
 
+[Dark Mode](Clarion_11_IDE_DarkMode.md)
+
 
