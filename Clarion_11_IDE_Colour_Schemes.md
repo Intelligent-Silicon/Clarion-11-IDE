@@ -1,8 +1,8 @@
 # Clarion 11 IDE Colour Schemes
 
-The Clarion 11 IDE permits different colour modes to be used. 
+The Clarion 11 IDE permits different colour schemes to be used. 
 
-These settings affect the #Develop parts of the IDE, and not the main AppGen & Dct part's of the IDE.
+These settings affect the look of the SharpDevelop parts of the IDE, and not the main AppGen & Dct part's of the IDE.
 
 [Toolbar Color Schemes](Clarion_11_IDE_Colour_Schemes.md#toolbar-color-schemes)
 
@@ -57,7 +57,7 @@ These settings affect the #Develop parts of the IDE, and not the main AppGen & D
 
 ### Toolbar Color Schemes
 
-This encompasses, toolbars and flyout pinnable pads.
+This encompasses toolbars and flyout pinnable pads.
 
 An online topic & discussion can be found here at :
 
@@ -65,7 +65,7 @@ An online topic & discussion can be found here at :
 
 [ClarionHub.com - Share your custom syntax highlighting scheme here!](https://clarionhub.com/t/share-your-custom-syntax-highlighting-scheme-here/453/1)
 
-The XML files responsible for the colour of the IDE can be found in :
+The XML files responsible for the colour scheme of the IDE can be found in :
 
 ```%CWroot%\data\resources\ColorThemes```
 
@@ -91,9 +91,9 @@ The standard Toolbar colour schemes which ship with Clarion are:
 | Win10Blue.xml |
 
 You can select one of these colour schemes to colour the IDE by clicking on 
-```Tools, Options, IDE, Appearance, scroll down to 'Select the Toolbar color scheme', and select one of the above from the drop down list box.```
+```Clarion IDE:Tools, Options, IDE, Appearance, scroll down to 'Select the Toolbar color scheme', and select one of the above from the drop down list box.```
 
-If you are editing individual sections and elements in one of the colour scheme XML files, its enough to select ```Tools, Options, IDE, Appearance, OK button``` to trigger the reloading of the colour scheme, if the one selected is the same one being editted at the same time in another program like Notepad++.
+If you are editing individual sections and elements in one of the colour scheme XML files, its enough to select ```Clarion IDE:Tools, Options, IDE, Appearance, OK button``` to trigger the reloading of the colour scheme, if the one selected in the IDE is the same XML file one being editted at the same time in another program like Notepad++.
 
 
 The XML file consists of different sections to represent the different parts of the IDE.
@@ -119,10 +119,9 @@ Within each section there will be a number of elements some of which will be pai
 ```<xGradientBegin>``` & ```<xGradientEnd>```, ```<xActiveTextColor>``` & ```<xInactiveTextColor>```, ```<xActiveBackColorGradientBegin>``` & ```<xActiveBackColorGradientEnd>``` with ```<xInactiveBackColor>```.
 
 ### ARGB Numbers
-The numbers within these elements are predominantly negative numbers eg -16777216. These are whats called ARGB (Alpha, Red, Green, Blue) number formats which are stored in a 32-bit integer (Clarion Long). You can also use basic colour names, like Red, White & Blue, and colour names like WhiteSmoke, ControlLight, ActiveBorder and GradientActiveCaption. 
+The numbers within these elements are predominantly negative numbers eg -16777216. These are whats called ARGB (Alpha, Red, Green, Blue) number formats which are stored in a 32-bit integer (Clarion Long). You can also use basic colour names, like ```Red```, ```White``` & ```Blue```, and colour names like ```WhiteSmoke```, ```ControlLight```, ```ActiveBorder``` and ```GradientActiveCaption``` which can found in the [Windows Colour Schemes](Windows_Colour_Schemes.md) along with Windows .Net/Win32 System Colours like ```ButtonFace``` also listed in the [Windows Colour Schemes](Windows_Colour_Schemes.md) page.
 
-You can find a full list of these named system colors in the [.NET SystemColors Class](https://learn.microsoft.com/en-us/dotnet/api/system.drawing.systemcolors?view=net-9.0) documentation. It includes colors like ControlLight, ActiveBorder, GradientActiveCaption, and many others used in Windows UI elements.
-For a more visual and OS-specific breakdown, this [GitHub gist of Windows system colors](https://gist.github.com/zaxbux/64b5a88e2e390fb8f8d24eb1736f71e0) is good. It shows the RGB and hex values for each color, grouped by UI category—like window borders, captions, controls, and text.
+You can find a full list of these named system colors in the [Windows Colour Schemes](Windows_Colour_Schemes.md) page. It includes colors like ```ControlLight```, ```ActiveBorder```, ```GradientActiveCaption```, and many others used in Windows UI elements.
 
 ARGB numbers range from 0 to 255, and the negative 32bit integer is calculated using Bshift, if you fancy building your own Clarion tool to modify the colour scheme XML files, or you can simply click the ellipse button next to the drop down list box listing the Toolbar colour schemes.
 
@@ -148,7 +147,7 @@ Default
     <xTextColor>-6250336</xTextColor>
 </DockTabStripAppearance>
 ```
-To show what the \<DockTabStripAppearance> section affects in the IDE, the elements are coloured shades of Red to hilight easily, in 3 views, the Start page, the AppGen and the Dictionary view.
+To show what the \<DockTabStripAppearance> section affects in the IDE, the elements are coloured shades of Red to hilight easily, sometimes in 3 views, the Start page, the AppGen and the Dictionary view.
 
 ```
 <DockTabStripAppearance>
