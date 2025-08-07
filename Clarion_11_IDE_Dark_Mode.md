@@ -73,20 +73,25 @@ and more...
 
 
 
-Colour Wheels help identify harmonious colours and complementary colours. A good website for picking colours and identify complimentary colours is [Paletton.com](https://paletton.com). The website will calculate automatically based on an initially chosen colour.
+Colour Wheels help identify harmonious colours and complementary colours. A good website for picking colours and identify complimentary colours is [Paletton.com](https://paletton.com). The website will calculate automatically based on an initial chosen colour.
 
-MS Windows also has a [Colour Picker](https://learn.microsoft.com/en-us/windows/powertoys/color-picker) included in its Power Toys.
+MS Windows also has a [Colour Picker](https://learn.microsoft.com/en-us/windows/powertoys/color-picker) included in its Power Toys, which can be handy for select the colours seen elsewhere in a Dark Mode.
 
 If you are lacking in ideas for a dark mode colour scheme, the [Colorffy.com](https://colorffy.com/dark-theme-generator) website provides a handy Dark Mode colour generator which lets you cycle through different colours for a dark mode. Just click the ```Generate``` button to cycle through the colours.
 
 https://colorffy.com/dark-theme-generator?colors=bffb9f-121212
 
-# Clarion Colours
+# Converting Colours from Hex to Decimal
 
-Primary Colour #4C4569
-Surface Colour #121212
+| Actions | Value |
+| --- | --- |
+| Take a Hex number | #4C4569 |
+| Add alpha FF for full opacity | #FF4C4569 | 
+| Convert from Hex to Decimal | 4281150511 |
+| If the value is greater than 2147483647, - subtract 2^32 (4294967296) | -13,816,785 |
 
-Primary -a0 #4c4569
+ 
+
 | Type | -0 | -10 | -20 | -30 | -40 | -50 |
 | --- | --- | --- | --- | --- | --- | --- |
 | Primary Colour | #4c4569 | #5e5779 | #716b88 | #847e99 | #9893a9 | #aca7ba |
