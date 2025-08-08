@@ -3,7 +3,7 @@
 
 This is work in progress.
 
-I'm currently trying to write a colour picker with swatch in C11, but the IDE keeps crashing. I'll put up a repo which lists all the bugs encountered in the C11 IDE, my login to posts bugs doesnt work, I get no response from SV and I've given up with them. To date I've yet to be able to release any software using the C7 runtime or later. Customers have experienced crashes to the point I no longer have them.
+I'm currently trying to write a colour picker with swatch in C11, but the IDE keeps crashing. I'll put up a repo which lists all the bugs encountered in the C11 IDE, my login to posts bugs doesnt work, I get no response from SV and I've given up with them. To date I've yet to be able to release any software using the C7 runtime or later. Customers have experienced crashes with the C7 runtime to the point I no longer have them.
 
 This colour scheme is what is known as a Dark Mode colour scheme. Dark modes are designed to save on battery life when used on laptops, provide a high contrast look to programs which can help in bright & poor light situations and generally helps to provide less eye strain and damage both short and long term when using a program for long periods of time.
 
