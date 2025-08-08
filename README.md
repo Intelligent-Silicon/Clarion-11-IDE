@@ -1,5 +1,7 @@
 # Clarion 11 IDE
 
+Ditched this to go back to Clarion 6. I keep losing hours of work when the IDE crashes or hangs at 100%, its simply not usuable.
+
 [Clarion 11 IDE Colour Schemes](Clarion_11_IDE_Colour_Schemes.md)
 
 [Clarion 11 IDE - Start Page Sections & Elements](Clarion_11_IDE_StartPage.md)
