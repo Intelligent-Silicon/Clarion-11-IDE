@@ -120,22 +120,4 @@ https://colorffy.com/dark-theme-generator?colors=bffb9f-121212
 | Hex  |   #bffb9f |   #c7fcaa |   #cefcb5 |   #d6fdbf |   #ddfdca |   #e4fed5 |
 | Dec  |  -4199393 |  -4015798 |  -3832203 |  -3648609 |  -3465014 |  -3281419 |
 
-
-
-<DockTabStripAppearance>
-  <xGradientBegin>-13878737</xGradientBegin>      <!-- #ff2d2c2f -13,816,785 -->
-  <xGradientEnd>-25856</xGradientEnd>          <!-- #ff444345 -12,303,547-->
-  <xTextColor>-16711936</xTextColor>           <!-- Lime Green (#00FF00) -->
-</DockTabStripAppearance>
-
-
-
-Button Text
-Button Background
-
-
-# Backgrounds
-
-# Text Colours
-
-# 
+[Dark Mode Images](Clarion_11_IDE_IS_Dark_Mode.md)
